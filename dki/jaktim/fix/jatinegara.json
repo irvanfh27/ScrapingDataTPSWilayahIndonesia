@@ -1,0 +1,34 @@
+{
+    "Kecamatan": {
+        "jaktim-jatinegara": {
+            "titik_saksi": "Jatinegara",
+            "children": [
+
+                {
+                    "value": "KAMPUNG MELAYU"
+                },
+                {
+                    "value": "BIDARA CINA"
+                },
+                {
+                    "value": "BALIMESTER"
+                },
+                {
+                    "value": "RAWA BUNGA"
+                },
+                {
+                    "value": "CIPINANG CEMPEDAK"
+                },
+                {
+                    "value": "CIPINANG MUARA"
+                },
+                {
+                    "value": "CIPINANG BESAR SELATAN"
+                },
+                {
+                    "value": "CIPINANG BESAR UTARA"
+                }
+            ]
+        }
+    }
+}
