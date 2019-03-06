@@ -5,17 +5,21 @@
             "children": [
 
                 {
-
+                    "value": "PENJARINGAN"
                 },
+                {
+                    "value": "KAMAL MUARA"
+                },
+                {
+                    "value": "KAPUK MUARA"
+                },
+                {
+                    "value": "PEJAGALAN"
+                },
+                {
+                    "value": "PLUIT"
+                }
             ]
         }
     }
 }
-
-"Nama": "PENJARINGAN",
-"Nama": "KAMAL MUARA",
-"Nama": "KAPUK MUARA",
-"Nama": "PEJAGALAN",
- 
-"Nama": "PLUIT",
-    
