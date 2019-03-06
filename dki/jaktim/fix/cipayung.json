@@ -1,0 +1,42 @@
+{
+    "Kecamatan": {
+        "jaktim-cipayung": {
+            "titik_saksi": "Cipayung",
+            "children": [
+
+                {
+                    "value": "CIPAYUNG"
+
+                },
+                {
+                    "value": "CILANGKAP"
+
+                },
+                {
+                    "value": "PONDOK RANGGON"
+
+                },
+                {
+                    "value": "MUNJUL"
+
+                },
+                {
+
+                    "value": "SETU"
+                },
+                {
+                    "value": "BAMBU APUS"
+
+                },
+                {
+                    "value": "LUBANG BUAYA"
+
+                },
+                {
+                    "value": "CEGER"
+
+                }
+            ]
+        }
+    }
+}
