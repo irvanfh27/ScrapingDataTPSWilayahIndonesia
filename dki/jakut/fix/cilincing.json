@@ -1,0 +1,31 @@
+{
+    "Kecamatan": {
+        "jakarta_utara-cilincing": {
+            "titik_saksi": "Cilincing",
+            "children": [
+
+                {
+                    "value": "CILINCING"
+                },
+                {
+                    "value": "SUKAPURA"
+                },
+                {
+                    "value": "MARUNDA"
+                },
+                {
+                    "value": "KALIBARU"
+                },
+                {
+                    "value": "SEMPER TIMUR"
+                },
+                {
+                    "value": "ROROTAN"
+                },
+                {
+                    "value": "SEMPER BARAT"
+                }
+            ]
+        }
+    }
+}
