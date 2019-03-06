@@ -1,0 +1,73 @@
+[{
+    "Kode": "31.75.10.1001",
+    "Nama": "CIPAYUNG",
+    "idKab": "26065",
+    "idKec": "26132",
+    "idKel": "26133",
+    "Korsak": 6,
+    "TPS": 83
+}, {
+    "Kode": "31.75.10.1002",
+    "Nama": "CILANGKAP",
+    "idKab": "26065",
+    "idKec": "26132",
+    "idKel": "26134",
+    "Korsak": 6,
+    "TPS": 84
+}, {
+    "Kode": "31.75.10.1003",
+    "Nama": "PONDOK RANGGON",
+    "idKab": "26065",
+    "idKec": "26132",
+    "idKel": "26135",
+    "Korsak": 5,
+    "TPS": 72
+}, {
+    "Kode": "31.75.10.1004",
+    "Nama": "MUNJUL",
+    "idKab": "26065",
+    "idKec": "26132",
+    "idKel": "26136",
+    "Korsak": 5,
+    "TPS": 69
+}, {
+    "Kode": "31.75.10.1005",
+    "Nama": "SETU",
+    "idKab": "26065",
+    "idKec": "26132",
+    "idKel": "26137",
+    "Korsak": 5,
+    "TPS": 61
+}, {
+    "Kode": "31.75.10.1006",
+    "Nama": "BAMBU APUS",
+    "idKab": "26065",
+    "idKec": "26132",
+    "idKel": "26138",
+    "Korsak": 6,
+    "TPS": 81
+}, {
+    "Kode": "31.75.10.1007",
+    "Nama": "LUBANG BUAYA",
+    "idKab": "26065",
+    "idKec": "26132",
+    "idKel": "26139",
+    "Korsak": 14,
+    "TPS": 199
+}, {
+    "Kode": "31.75.10.1008",
+    "Nama": "CEGER",
+    "idKab": "26065",
+    "idKec": "26132",
+    "idKel": "26140",
+    "Korsak": 4,
+    "TPS": 60
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 51,
+    "TPS": 709
+}]
