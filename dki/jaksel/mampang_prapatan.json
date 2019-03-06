@@ -1,0 +1,49 @@
+[{
+    "Kode": "31.74.03.1001",
+    "Nama": "MAMPANG PRAPATAN",
+    "idKab": "25989",
+    "idKec": "26007",
+    "idKel": "26008",
+    "Korsak": 5,
+    "TPS": 66
+}, {
+    "Kode": "31.74.03.1002",
+    "Nama": "BANGKA",
+    "idKab": "25989",
+    "idKec": "26007",
+    "idKel": "26009",
+    "Korsak": 5,
+    "TPS": 74
+}, {
+    "Kode": "31.74.03.1003",
+    "Nama": "PELA MAMPANG",
+    "idKab": "25989",
+    "idKec": "26007",
+    "idKel": "26010",
+    "Korsak": 10,
+    "TPS": 149
+}, {
+    "Kode": "31.74.03.1004",
+    "Nama": "TEGAL PARANG",
+    "idKab": "25989",
+    "idKec": "26007",
+    "idKel": "26011",
+    "Korsak": 7,
+    "TPS": 100
+}, {
+    "Kode": "31.74.03.1005",
+    "Nama": "KUNINGAN BARAT",
+    "idKab": "25989",
+    "idKec": "26007",
+    "idKel": "26012",
+    "Korsak": 3,
+    "TPS": 45
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 30,
+    "TPS": 434
+}]
