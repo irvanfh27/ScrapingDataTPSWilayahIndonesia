@@ -1,0 +1,73 @@
+[{
+    "Kode": "31.75.03.1001",
+    "Nama": "KAMPUNG MELAYU",
+    "idKab": "26065",
+    "idKec": "26081",
+    "idKel": "26082",
+    "Korsak": 6,
+    "TPS": 82
+}, {
+    "Kode": "31.75.03.1002",
+    "Nama": "BIDARA CINA",
+    "idKab": "26065",
+    "idKec": "26081",
+    "idKel": "26083",
+    "Korsak": 9,
+    "TPS": 128
+}, {
+    "Kode": "31.75.03.1003",
+    "Nama": "BALIMESTER",
+    "idKab": "26065",
+    "idKec": "26081",
+    "idKel": "26084",
+    "Korsak": 3,
+    "TPS": 34
+}, {
+    "Kode": "31.75.03.1004",
+    "Nama": "RAWA BUNGA",
+    "idKab": "26065",
+    "idKec": "26081",
+    "idKel": "26085",
+    "Korsak": 5,
+    "TPS": 71
+}, {
+    "Kode": "31.75.03.1005",
+    "Nama": "CIPINANG CEMPEDAK",
+    "idKab": "26065",
+    "idKec": "26081",
+    "idKel": "26086",
+    "Korsak": 8,
+    "TPS": 107
+}, {
+    "Kode": "31.75.03.1006",
+    "Nama": "CIPINANG MUARA",
+    "idKab": "26065",
+    "idKec": "26081",
+    "idKel": "26087",
+    "Korsak": 12,
+    "TPS": 172
+}, {
+    "Kode": "31.75.03.1007",
+    "Nama": "CIPINANG BESAR SELATAN",
+    "idKab": "26065",
+    "idKec": "26081",
+    "idKel": "26088",
+    "Korsak": 8,
+    "TPS": 109
+}, {
+    "Kode": "31.75.03.1008",
+    "Nama": "CIPINANG BESAR UTARA",
+    "idKab": "26065",
+    "idKec": "26081",
+    "idKel": "26089",
+    "Korsak": 11,
+    "TPS": 160
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 62,
+    "TPS": 863
+}]
