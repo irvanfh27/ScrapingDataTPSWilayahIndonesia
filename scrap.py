@@ -5,7 +5,7 @@ import json
 
 idKec = 26028
 
-url = "http://dom.garbiapp.com/kpu/wilayah/?op=wilayah&q=26090&lev=4&parent=26065"
+url = "http://dom.garbiapp.com/kpu/wilayah/?op=wilayah&q=26098&lev=4&parent=26065"
 res = requests.get(url)
 soup = BeautifulSoup(res.content,'lxml')
 table = soup.find_all('table')[0] 
