@@ -1,0 +1,49 @@
+[{
+    "Kode": "31.75.09.1001",
+    "Nama": "CIRACAS",
+    "idKab": "26065",
+    "idKec": "26126",
+    "idKel": "26127",
+    "Korsak": 13,
+    "TPS": 193
+}, {
+    "Kode": "31.75.09.1002",
+    "Nama": "CIBUBUR",
+    "idKab": "26065",
+    "idKec": "26126",
+    "idKel": "26128",
+    "Korsak": 14,
+    "TPS": 209
+}, {
+    "Kode": "31.75.09.1003",
+    "Nama": "KELAPA DUA WETAN",
+    "idKab": "26065",
+    "idKec": "26126",
+    "idKel": "26129",
+    "Korsak": 10,
+    "TPS": 150
+}, {
+    "Kode": "31.75.09.1004",
+    "Nama": "SUSUKAN",
+    "idKab": "26065",
+    "idKec": "26126",
+    "idKel": "26130",
+    "Korsak": 9,
+    "TPS": 121
+}, {
+    "Kode": "31.75.09.1005",
+    "Nama": "RAMBUTAN",
+    "idKab": "26065",
+    "idKec": "26126",
+    "idKel": "26131",
+    "Korsak": 8,
+    "TPS": 112
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 54,
+    "TPS": 785
+}]
