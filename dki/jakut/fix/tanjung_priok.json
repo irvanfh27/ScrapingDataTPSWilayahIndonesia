@@ -1,0 +1,31 @@
+{
+    "Kecamatan": {
+        "jakarta_utara-tanjung_priok": {
+            "titik_saksi": "Tanjung Priok",
+            "children": [
+
+                {
+                    "value": "TANJUNG PRIOK",
+                },
+                {
+                    "value": "SUNTER JAYA",
+                },
+                {
+                    "value": "PAPANGGO",
+                },
+                {
+                    "value": "SUNGAI BAMBU",
+                },
+                {
+                    "value": "KEBON BAWANG",
+                },
+                {
+                    "value": "SUNTER AGUNG",
+                },
+                {
+                    "value": "WARAKAS",
+                }
+            ]
+        }
+    }
+}
