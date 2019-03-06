@@ -1,0 +1,49 @@
+[{
+    "Kode": "31.74.10.1001",
+    "Nama": "PESANGGRAHAN",
+    "idKab": "25989",
+    "idKec": "26059",
+    "idKel": "26060",
+    "Korsak": 6,
+    "TPS": 87
+}, {
+    "Kode": "31.74.10.1002",
+    "Nama": "BINTARO",
+    "idKab": "25989",
+    "idKec": "26059",
+    "idKel": "26061",
+    "Korsak": 12,
+    "TPS": 169
+}, {
+    "Kode": "31.74.10.1003",
+    "Nama": "PETUKANGAN UTARA",
+    "idKab": "25989",
+    "idKec": "26059",
+    "idKel": "26062",
+    "Korsak": 12,
+    "TPS": 174
+}, {
+    "Kode": "31.74.10.1004",
+    "Nama": "PETUKANGAN SELATAN",
+    "idKab": "25989",
+    "idKec": "26059",
+    "idKel": "26063",
+    "Korsak": 8,
+    "TPS": 114
+}, {
+    "Kode": "31.74.10.1005",
+    "Nama": "ULUJAMI",
+    "idKab": "25989",
+    "idKec": "26059",
+    "idKel": "26064",
+    "Korsak": 9,
+    "TPS": 132
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 47,
+    "TPS": 676
+}]
