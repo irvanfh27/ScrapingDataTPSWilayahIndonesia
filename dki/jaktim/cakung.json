@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.75.06.1004",
+    "Nama": "CAKUNG TIMUR",
+    "idKab": "26065",
+    "idKec": "26104",
+    "idKel": "26105",
+    "Korsak": 13,
+    "TPS": 185
+}, {
+    "Kode": "31.75.06.1001",
+    "Nama": "JATINEGARA",
+    "idKab": "26065",
+    "idKec": "26104",
+    "idKel": "26106",
+    "Korsak": 19,
+    "TPS": 278
+}, {
+    "Kode": "31.75.06.1002",
+    "Nama": "RAWA TERATE",
+    "idKab": "26065",
+    "idKec": "26104",
+    "idKel": "26107",
+    "Korsak": 6,
+    "TPS": 86
+}, {
+    "Kode": "31.75.06.1003",
+    "Nama": "PENGGILINGAN",
+    "idKab": "26065",
+    "idKec": "26104",
+    "idKel": "26108",
+    "Korsak": 21,
+    "TPS": 312
+}, {
+    "Kode": "31.75.06.1005",
+    "Nama": "PULO GEBANG",
+    "idKab": "26065",
+    "idKec": "26104",
+    "idKel": "26109",
+    "Korsak": 22,
+    "TPS": 319
+}, {
+    "Kode": "31.75.06.1006",
+    "Nama": "UJUNG MENTENG",
+    "idKab": "26065",
+    "idKec": "26104",
+    "idKel": "26110",
+    "Korsak": 7,
+    "TPS": 96
+}, {
+    "Kode": "31.75.06.1007",
+    "Nama": "CAKUNG BARAT",
+    "idKab": "26065",
+    "idKec": "26104",
+    "idKel": "26111",
+    "Korsak": 13,
+    "TPS": 185
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 101,
+    "TPS": 1461
+}]
