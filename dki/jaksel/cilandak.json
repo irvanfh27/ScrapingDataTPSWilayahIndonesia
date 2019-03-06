@@ -1,0 +1,49 @@
+[{
+    "Kode": "31.74.06.1001",
+    "Nama": "CILANDAK BARAT",
+    "idKab": "25989",
+    "idKec": "26028",
+    "idKel": "26029",
+    "Korsak": 13,
+    "TPS": 182
+}, {
+    "Kode": "31.74.06.1002",
+    "Nama": "LEBAK BULUS",
+    "idKab": "25989",
+    "idKec": "26028",
+    "idKel": "26030",
+    "Korsak": 9,
+    "TPS": 131
+}, {
+    "Kode": "31.74.06.1003",
+    "Nama": "PONDOK LABU",
+    "idKab": "25989",
+    "idKec": "26028",
+    "idKel": "26031",
+    "Korsak": 11,
+    "TPS": 159
+}, {
+    "Kode": "31.74.06.1004",
+    "Nama": "GANDARIA SELATAN",
+    "idKab": "25989",
+    "idKec": "26028",
+    "idKel": "26032",
+    "Korsak": 6,
+    "TPS": 77
+}, {
+    "Kode": "31.74.06.1005",
+    "Nama": "CIPETE SELATAN",
+    "idKab": "25989",
+    "idKec": "26028",
+    "idKel": "26033",
+    "Korsak": 7,
+    "TPS": 100
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 46,
+    "TPS": 649
+}]
