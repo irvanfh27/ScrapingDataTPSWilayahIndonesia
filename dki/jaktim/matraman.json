@@ -1,0 +1,57 @@
+[{
+    "Kode": "31.75.01.1001",
+    "Nama": "PISANGAN BARU",
+    "idKab": "26065",
+    "idKec": "26066",
+    "idKel": "26067",
+    "Korsak": 7,
+    "TPS": 103
+}, {
+    "Kode": "31.75.01.1002",
+    "Nama": "UTAN KAYU UTARA",
+    "idKab": "26065",
+    "idKec": "26066",
+    "idKel": "26068",
+    "Korsak": 7,
+    "TPS": 92
+}, {
+    "Kode": "31.75.01.1003",
+    "Nama": "KAYU MANIS",
+    "idKab": "26065",
+    "idKec": "26066",
+    "idKel": "26069",
+    "Korsak": 6,
+    "TPS": 81
+}, {
+    "Kode": "31.75.01.1004",
+    "Nama": "PALMERIAM",
+    "idKab": "26065",
+    "idKec": "26066",
+    "idKel": "26070",
+    "Korsak": 5,
+    "TPS": 64
+}, {
+    "Kode": "31.75.01.1005",
+    "Nama": "KEBON MANGGIS",
+    "idKab": "26065",
+    "idKec": "26066",
+    "idKel": "26071",
+    "Korsak": 4,
+    "TPS": 53
+}, {
+    "Kode": "31.75.01.1006",
+    "Nama": "UTAN KAYU SELATAN",
+    "idKab": "26065",
+    "idKec": "26066",
+    "idKel": "26072",
+    "Korsak": 8,
+    "TPS": 106
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 37,
+    "TPS": 499
+}]
