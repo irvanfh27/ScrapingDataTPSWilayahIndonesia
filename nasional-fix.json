@@ -1,0 +1,115 @@
+{
+    "NASIONAL": {
+        "key": {
+            "tingkat_saksi": "Nasional",
+            "children": [
+
+                {
+                    "value": "ACEH"
+                },
+                {
+                    "value": "SUMATERA UTARA"
+
+                },
+                {
+                    "value": "SUMATERA BARAT"
+
+                },
+                {
+                    "value": "RIAU"
+
+                },
+                {
+                    "value": "JAMBI"
+                },
+                {
+                    "value": "SUMATERA SELATAN"
+                },
+                {
+                    "value": "BENGKULU"
+                },
+                {
+                    "value": "LAMPUNG"
+                },
+                {
+                    "value": "KEPULAUAN BANGKA BELITUNG"
+                },
+                {
+                    "value": "KEPULAUAN RIAU"
+                },
+                {
+                    "value": "DKI JAKARTA"
+                },
+                {
+                    "value": "JAWA BARAT"
+                },
+                {
+                    "value": "JAWA TENGAH"
+                },
+                {
+                    "value": "DAERAH ISTIMEWA YOGYAKARTA"
+                },
+                {
+                    "value": "JAWA TIMUR"
+                },
+                {
+                    "value": "BANTEN"
+                },
+                {
+                    "value": "BALI"
+                },
+                {
+                    "value": "NUSA TENGGARA BARAT"
+                },
+                {
+                    "value": "NUSA TENGGARA TIMUR"
+                },
+                {
+                    "value": "KALIMANTAN BARAT"
+                },
+                {
+                    "value": "KALIMANTAN TENGAH"
+                },
+                {
+                    "value": "KALIMANTAN SELATAN"
+                },
+                {
+                    "value": "KALIMANTAN TIMUR"
+                },
+                {
+                    "value": "SULAWESI UTARA"
+                },
+                {
+                    "value": "SULAWESI TENGAH"
+                },
+                {
+                    "value": "SULAWESI SELATAN"
+                },
+                {
+                    "value": "SULAWESI TENGGARA"
+                },
+                {
+                    "value": "GORONTALO"
+                },
+                {
+                    "value": "SULAWESI BARAT"
+                },
+                {
+                    "value": "MALUKU"
+                },
+                {
+                    "value": "MALUKU UTARA"
+                },
+                {
+                    "value": "PAPUA"
+                },
+                {
+                    "value": "PAPUA BARAT"
+                },
+                {
+                    "value": "KALIMANTAN UTARA"
+                }
+            ]
+        }
+    }
+}
