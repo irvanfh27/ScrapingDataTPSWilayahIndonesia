@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.74.04.1001",
+    "Nama": "PASAR MINGGU",
+    "idKab": "25989",
+    "idKec": "26013",
+    "idKel": "26014",
+    "Korsak": 6,
+    "TPS": 85
+}, {
+    "Kode": "31.74.04.1002",
+    "Nama": "JATI PADANG",
+    "idKab": "25989",
+    "idKec": "26013",
+    "idKel": "26015",
+    "Korsak": 9,
+    "TPS": 123
+}, {
+    "Kode": "31.74.04.1003",
+    "Nama": "CILANDAK TIMUR",
+    "idKab": "25989",
+    "idKec": "26013",
+    "idKel": "26016",
+    "Korsak": 6,
+    "TPS": 83
+}, {
+    "Kode": "31.74.04.1004",
+    "Nama": "RAGUNAN",
+    "idKab": "25989",
+    "idKec": "26013",
+    "idKel": "26017",
+    "Korsak": 9,
+    "TPS": 132
+}, {
+    "Kode": "31.74.04.1005",
+    "Nama": "PEJATEN TIMUR",
+    "idKab": "25989",
+    "idKec": "26013",
+    "idKel": "26018",
+    "Korsak": 13,
+    "TPS": 188
+}, {
+    "Kode": "31.74.04.1006",
+    "Nama": "PEJATEN BARAT",
+    "idKab": "25989",
+    "idKec": "26013",
+    "idKel": "26019",
+    "Korsak": 9,
+    "TPS": 129
+}, {
+    "Kode": "31.74.04.1007",
+    "Nama": "KEBAGUSAN",
+    "idKab": "25989",
+    "idKec": "26013",
+    "idKel": "26020",
+    "Korsak": 10,
+    "TPS": 141
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 62,
+    "TPS": 881
+}]

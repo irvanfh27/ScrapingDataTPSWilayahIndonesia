@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.73.02.1001",
+    "Nama": "GROGOL",
+    "idKab": "25924",
+    "idKec": "25932",
+    "idKel": "25933",
+    "Korsak": 4,
+    "TPS": 57
+}, {
+    "Kode": "31.73.02.1002",
+    "Nama": "TANJUNG DUREN UTARA",
+    "idKab": "25924",
+    "idKec": "25932",
+    "idKel": "25934",
+    "Korsak": 4,
+    "TPS": 56
+}, {
+    "Kode": "31.73.02.1003",
+    "Nama": "TOMANG",
+    "idKab": "25924",
+    "idKec": "25932",
+    "idKel": "25935",
+    "Korsak": 7,
+    "TPS": 100
+}, {
+    "Kode": "31.73.02.1004",
+    "Nama": "JELAMBAR",
+    "idKab": "25924",
+    "idKec": "25932",
+    "idKel": "25936",
+    "Korsak": 7,
+    "TPS": 96
+}, {
+    "Kode": "31.73.02.1005",
+    "Nama": "TANJUNG DUREN SELATAN",
+    "idKab": "25924",
+    "idKec": "25932",
+    "idKel": "25937",
+    "Korsak": 6,
+    "TPS": 84
+}, {
+    "Kode": "31.73.02.1006",
+    "Nama": "JELAMBAR BARU",
+    "idKab": "25924",
+    "idKec": "25932",
+    "idKel": "25938",
+    "Korsak": 8,
+    "TPS": 117
+}, {
+    "Kode": "31.73.02.1007",
+    "Nama": "WIJAYA KUSUMA",
+    "idKab": "25924",
+    "idKec": "25932",
+    "idKel": "25939",
+    "Korsak": 9,
+    "TPS": 128
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 45,
+    "TPS": 638
+}]

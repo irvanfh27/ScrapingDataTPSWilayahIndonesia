@@ -1,0 +1,73 @@
+[{
+    "Kode": "31.71.03.1001",
+    "Nama": "KEMAYORAN",
+    "idKab": "25833",
+    "idKec": "25847",
+    "idKel": "25848",
+    "Korsak": 5,
+    "TPS": 70
+}, {
+    "Kode": "31.71.03.1002",
+    "Nama": "KEBON KOSONG",
+    "idKab": "25833",
+    "idKec": "25847",
+    "idKel": "25849",
+    "Korsak": 6,
+    "TPS": 87
+}, {
+    "Kode": "31.71.03.1003",
+    "Nama": "HARAPAN MULIA",
+    "idKab": "25833",
+    "idKec": "25847",
+    "idKel": "25850",
+    "Korsak": 5,
+    "TPS": 74
+}, {
+    "Kode": "31.71.03.1004",
+    "Nama": "SERDANG",
+    "idKab": "25833",
+    "idKec": "25847",
+    "idKel": "25851",
+    "Korsak": 7,
+    "TPS": 93
+}, {
+    "Kode": "31.71.03.1005",
+    "Nama": "GUNUNG SAHARI SELATAN",
+    "idKab": "25833",
+    "idKec": "25847",
+    "idKel": "25852",
+    "Korsak": 5,
+    "TPS": 64
+}, {
+    "Kode": "31.71.03.1006",
+    "Nama": "CEMPAKA BARU",
+    "idKab": "25833",
+    "idKec": "25847",
+    "idKel": "25853",
+    "Korsak": 7,
+    "TPS": 104
+}, {
+    "Kode": "31.71.03.1007",
+    "Nama": "SUMUR BATU",
+    "idKab": "25833",
+    "idKec": "25847",
+    "idKel": "25854",
+    "Korsak": 5,
+    "TPS": 75
+}, {
+    "Kode": "31.71.03.1008",
+    "Nama": "UTAN PANJANG",
+    "idKab": "25833",
+    "idKec": "25847",
+    "idKel": "25855",
+    "Korsak": 7,
+    "TPS": 96
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 47,
+    "TPS": 663
+}]

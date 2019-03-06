@@ -1,0 +1,49 @@
+[{
+    "Kode": "31.71.02.1001",
+    "Nama": "PASAR BARU",
+    "idKab": "25833",
+    "idKec": "25841",
+    "idKel": "25842",
+    "Korsak": 3,
+    "TPS": 45
+}, {
+    "Kode": "31.71.02.1002",
+    "Nama": "KARANG ANYAR",
+    "idKab": "25833",
+    "idKec": "25841",
+    "idKel": "25843",
+    "Korsak": 6,
+    "TPS": 85
+}, {
+    "Kode": "31.71.02.1003",
+    "Nama": "KARTINI",
+    "idKab": "25833",
+    "idKec": "25841",
+    "idKel": "25844",
+    "Korsak": 5,
+    "TPS": 74
+}, {
+    "Kode": "31.71.02.1004",
+    "Nama": "GUNUNG SAHARI UTARA",
+    "idKab": "25833",
+    "idKec": "25841",
+    "idKel": "25845",
+    "Korsak": 4,
+    "TPS": 57
+}, {
+    "Kode": "31.71.02.1005",
+    "Nama": "MANGGA DUA SELATAN",
+    "idKab": "25833",
+    "idKec": "25841",
+    "idKel": "25846",
+    "Korsak": 7,
+    "TPS": 92
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 25,
+    "TPS": 353
+}]

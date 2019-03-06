@@ -1,0 +1,41 @@
+[{
+    "Kode": "31.71.08.1001",
+    "Nama": "JOHAR BARU",
+    "idKab": "25833",
+    "idKec": "25881",
+    "idKel": "25882",
+    "Korsak": 9,
+    "TPS": 121
+}, {
+    "Kode": "31.71.08.1002",
+    "Nama": "KAMPUNG RAWA",
+    "idKab": "25833",
+    "idKec": "25881",
+    "idKel": "25883",
+    "Korsak": 5,
+    "TPS": 69
+}, {
+    "Kode": "31.71.08.1003",
+    "Nama": "GALUR",
+    "idKab": "25833",
+    "idKec": "25881",
+    "idKel": "25884",
+    "Korsak": 5,
+    "TPS": 62
+}, {
+    "Kode": "31.71.08.1004",
+    "Nama": "TANAH TINGGI",
+    "idKab": "25833",
+    "idKec": "25881",
+    "idKel": "25885",
+    "Korsak": 8,
+    "TPS": 120
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 27,
+    "TPS": 372
+}]

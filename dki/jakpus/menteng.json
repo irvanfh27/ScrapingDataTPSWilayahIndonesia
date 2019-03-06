@@ -1,0 +1,49 @@
+[{
+    "Kode": "31.71.06.1001",
+    "Nama": "MENTENG",
+    "idKab": "25833",
+    "idKec": "25867",
+    "idKel": "25868",
+    "Korsak": 6,
+    "TPS": 83
+}, {
+    "Kode": "31.71.06.1002",
+    "Nama": "PEGANGSAAN",
+    "idKab": "25833",
+    "idKec": "25867",
+    "idKel": "25869",
+    "Korsak": 6,
+    "TPS": 79
+}, {
+    "Kode": "31.71.06.1003",
+    "Nama": "CIKINI",
+    "idKab": "25833",
+    "idKec": "25867",
+    "idKel": "25870",
+    "Korsak": 2,
+    "TPS": 30
+}, {
+    "Kode": "31.71.06.1004",
+    "Nama": "GONDANGDIA",
+    "idKab": "25833",
+    "idKec": "25867",
+    "idKel": "25871",
+    "Korsak": 0,
+    "TPS": 14
+}, {
+    "Kode": "31.71.06.1005",
+    "Nama": "KEBON SIRIH",
+    "idKab": "25833",
+    "idKec": "25867",
+    "idKel": "25872",
+    "Korsak": 3,
+    "TPS": 40
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 17,
+    "TPS": 246
+}]

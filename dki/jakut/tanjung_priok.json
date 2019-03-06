@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.72.02.1001",
+    "Nama": "TANJUNG PRIOK",
+    "idKab": "25886",
+    "idKec": "25893",
+    "idKel": "25894",
+    "Korsak": 8,
+    "TPS": 110
+}, {
+    "Kode": "31.72.02.1002",
+    "Nama": "SUNTER JAYA",
+    "idKab": "25886",
+    "idKec": "25893",
+    "idKel": "25895",
+    "Korsak": 14,
+    "TPS": 201
+}, {
+    "Kode": "31.72.02.1003",
+    "Nama": "PAPANGGO",
+    "idKab": "25886",
+    "idKec": "25893",
+    "idKel": "25896",
+    "Korsak": 9,
+    "TPS": 128
+}, {
+    "Kode": "31.72.02.1004",
+    "Nama": "SUNGAI BAMBU",
+    "idKab": "25886",
+    "idKec": "25893",
+    "idKel": "25897",
+    "Korsak": 7,
+    "TPS": 98
+}, {
+    "Kode": "31.72.02.1005",
+    "Nama": "KEBON BAWANG",
+    "idKab": "25886",
+    "idKec": "25893",
+    "idKel": "25898",
+    "Korsak": 11,
+    "TPS": 159
+}, {
+    "Kode": "31.72.02.1006",
+    "Nama": "SUNTER AGUNG",
+    "idKab": "25886",
+    "idKec": "25893",
+    "idKel": "25899",
+    "Korsak": 16,
+    "TPS": 228
+}, {
+    "Kode": "31.72.02.1007",
+    "Nama": "WARAKAS",
+    "idKab": "25886",
+    "idKec": "25893",
+    "idKel": "25900",
+    "Korsak": 10,
+    "TPS": 140
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 75,
+    "TPS": 1064
+}]

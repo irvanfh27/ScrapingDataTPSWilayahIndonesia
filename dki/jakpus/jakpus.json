@@ -1,0 +1,73 @@
+[{
+    "Kode": "31.71.01",
+    "Nama": "GAMBIR",
+    "idKab": "25833",
+    "idKec": "25834",
+    "Kel": 6,
+    "Korsak": 20,
+    "TPS": 274
+}, {
+    "Kode": "31.71.02",
+    "Nama": "SAWAH BESAR",
+    "idKab": "25833",
+    "idKec": "25841",
+    "Kel": 5,
+    "Korsak": 25,
+    "TPS": 353
+}, {
+    "Kode": "31.71.03",
+    "Nama": "KEMAYORAN",
+    "idKab": "25833",
+    "idKec": "25847",
+    "Kel": 8,
+    "Korsak": 47,
+    "TPS": 663
+}, {
+    "Kode": "31.71.04",
+    "Nama": "SENEN",
+    "idKab": "25833",
+    "idKec": "25856",
+    "Kel": 6,
+    "Korsak": 27,
+    "TPS": 346
+}, {
+    "Kode": "31.71.05",
+    "Nama": "CEMPAKA PUTIH",
+    "idKab": "25833",
+    "idKec": "25863",
+    "Kel": 3,
+    "Korsak": 19,
+    "TPS": 257
+}, {
+    "Kode": "31.71.06",
+    "Nama": "MENTENG",
+    "idKab": "25833",
+    "idKec": "25867",
+    "Kel": 5,
+    "Korsak": 17,
+    "TPS": 246
+}, {
+    "Kode": "31.71.07",
+    "Nama": "TANAH ABANG",
+    "idKab": "25833",
+    "idKec": "25873",
+    "Kel": 7,
+    "Korsak": 34,
+    "TPS": 481
+}, {
+    "Kode": "31.71.08",
+    "Nama": "JOHAR BARU",
+    "idKab": "25833",
+    "idKec": "25881",
+    "Kel": 4,
+    "Korsak": 27,
+    "TPS": 372
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "Kel": 44,
+    "Korsak": 216,
+    "TPS": 2992
+}]

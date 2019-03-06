@@ -1,0 +1,73 @@
+[{
+    "Kode": "31.73.03.1001",
+    "Nama": "TAMAN SARI",
+    "idKab": "25924",
+    "idKec": "25940",
+    "idKel": "25941",
+    "Korsak": 4,
+    "TPS": 48
+}, {
+    "Kode": "31.73.03.1002",
+    "Nama": "KRUKUT",
+    "idKab": "25924",
+    "idKec": "25940",
+    "idKel": "25942",
+    "Korsak": 4,
+    "TPS": 60
+}, {
+    "Kode": "31.73.03.1003",
+    "Nama": "MAPHAR",
+    "idKab": "25924",
+    "idKec": "25940",
+    "idKel": "25943",
+    "Korsak": 4,
+    "TPS": 58
+}, {
+    "Kode": "31.73.03.1004",
+    "Nama": "TANGKI",
+    "idKab": "25924",
+    "idKec": "25940",
+    "idKel": "25944",
+    "Korsak": 3,
+    "TPS": 42
+}, {
+    "Kode": "31.73.03.1005",
+    "Nama": "MANGGA BESAR",
+    "idKab": "25924",
+    "idKec": "25940",
+    "idKel": "25945",
+    "Korsak": 2,
+    "TPS": 24
+}, {
+    "Kode": "31.73.03.1006",
+    "Nama": "KEAGUNGAN",
+    "idKab": "25924",
+    "idKec": "25940",
+    "idKel": "25946",
+    "Korsak": 4,
+    "TPS": 56
+}, {
+    "Kode": "31.73.03.1007",
+    "Nama": "GLODOK",
+    "idKab": "25924",
+    "idKec": "25940",
+    "idKel": "25947",
+    "Korsak": 2,
+    "TPS": 28
+}, {
+    "Kode": "31.73.03.1008",
+    "Nama": "PINANGSIA",
+    "idKab": "25924",
+    "idKec": "25940",
+    "idKel": "25948",
+    "Korsak": 3,
+    "TPS": 35
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 26,
+    "TPS": 351
+}]

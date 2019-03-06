@@ -1,0 +1,33 @@
+[{
+    "Kode": "31.72.05.1001",
+    "Nama": "PADEMANGAN TIMUR",
+    "idKab": "25886",
+    "idKec": "25916",
+    "idKel": "25917",
+    "Korsak": 9,
+    "TPS": 122
+}, {
+    "Kode": "31.72.05.1002",
+    "Nama": "PADEMANGAN BARAT",
+    "idKab": "25886",
+    "idKec": "25916",
+    "idKel": "25918",
+    "Korsak": 16,
+    "TPS": 226
+}, {
+    "Kode": "31.72.05.1003",
+    "Nama": "ANCOL",
+    "idKab": "25886",
+    "idKec": "25916",
+    "idKel": "25919",
+    "Korsak": 6,
+    "TPS": 78
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 31,
+    "TPS": 426
+}]

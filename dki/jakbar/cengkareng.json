@@ -1,0 +1,57 @@
+[{
+    "Kode": "31.73.01.1001",
+    "Nama": "CENGKARENG BARAT",
+    "idKab": "25924",
+    "idKec": "25925",
+    "idKel": "25926",
+    "Korsak": 16,
+    "TPS": 226
+}, {
+    "Kode": "31.73.01.1002",
+    "Nama": "DURI KOSAMBI",
+    "idKab": "25924",
+    "idKec": "25925",
+    "idKel": "25927",
+    "Korsak": 17,
+    "TPS": 252
+}, {
+    "Kode": "31.73.01.1003",
+    "Nama": "RAWA BUAYA",
+    "idKab": "25924",
+    "idKec": "25925",
+    "idKel": "25928",
+    "Korsak": 13,
+    "TPS": 193
+}, {
+    "Kode": "31.73.01.1004",
+    "Nama": "KEDAUNG KALI ANGKE",
+    "idKab": "25924",
+    "idKec": "25925",
+    "idKel": "25929",
+    "Korsak": 7,
+    "TPS": 99
+}, {
+    "Kode": "31.73.01.1005",
+    "Nama": "KAPUK",
+    "idKab": "25924",
+    "idKec": "25925",
+    "idKel": "25930",
+    "Korsak": 27,
+    "TPS": 400
+}, {
+    "Kode": "31.73.01.1006",
+    "Nama": "CENGKARENG TIMUR",
+    "idKab": "25924",
+    "idKec": "25925",
+    "idKel": "25931",
+    "Korsak": 16,
+    "TPS": 236
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 96,
+    "TPS": 1406
+}]

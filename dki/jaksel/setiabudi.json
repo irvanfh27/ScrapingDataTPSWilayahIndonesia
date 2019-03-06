@@ -1,0 +1,73 @@
+[{
+    "Kode": "31.74.02.1001",
+    "Nama": "SETIA BUDI",
+    "idKab": "25989",
+    "idKec": "25998",
+    "idKel": "25999",
+    "Korsak": 0,
+    "TPS": 12
+}, {
+    "Kode": "31.74.02.1002",
+    "Nama": "KARET SEMANGGI",
+    "idKab": "25989",
+    "idKec": "25998",
+    "idKel": "26000",
+    "Korsak": 0,
+    "TPS": 10
+}, {
+    "Kode": "31.74.02.1003",
+    "Nama": "KARET KUNINGAN",
+    "idKab": "25989",
+    "idKec": "25998",
+    "idKel": "26001",
+    "Korsak": 4,
+    "TPS": 54
+}, {
+    "Kode": "31.74.02.1004",
+    "Nama": "KARET",
+    "idKab": "25989",
+    "idKec": "25998",
+    "idKel": "26002",
+    "Korsak": 3,
+    "TPS": 34
+}, {
+    "Kode": "31.74.02.1005",
+    "Nama": "MENTENG ATAS",
+    "idKab": "25989",
+    "idKec": "25998",
+    "idKel": "26003",
+    "Korsak": 7,
+    "TPS": 94
+}, {
+    "Kode": "31.74.02.1006",
+    "Nama": "PASAR MANGGIS",
+    "idKab": "25989",
+    "idKec": "25998",
+    "idKel": "26004",
+    "Korsak": 7,
+    "TPS": 95
+}, {
+    "Kode": "31.74.02.1007",
+    "Nama": "GUNTUR",
+    "idKab": "25989",
+    "idKec": "25998",
+    "idKel": "26005",
+    "Korsak": 0,
+    "TPS": 15
+}, {
+    "Kode": "31.74.02.1008",
+    "Nama": "KUNINGAN TIMUR",
+    "idKab": "25989",
+    "idKec": "25998",
+    "idKel": "26006",
+    "Korsak": 0,
+    "TPS": 19
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 21,
+    "TPS": 333
+}]

@@ -1,0 +1,57 @@
+[{
+    "Kode": "31.73.07.1001",
+    "Nama": "PALMERAH",
+    "idKab": "25924",
+    "idKec": "25975",
+    "idKel": "25976",
+    "Korsak": 14,
+    "TPS": 208
+}, {
+    "Kode": "31.73.07.1002",
+    "Nama": "SLIPI",
+    "idKab": "25924",
+    "idKec": "25975",
+    "idKel": "25977",
+    "Korsak": 4,
+    "TPS": 60
+}, {
+    "Kode": "31.73.07.1003",
+    "Nama": "KOTA BAMBU UTARA",
+    "idKab": "25924",
+    "idKec": "25975",
+    "idKel": "25978",
+    "Korsak": 6,
+    "TPS": 89
+}, {
+    "Kode": "31.73.07.1004",
+    "Nama": "JATIPULO",
+    "idKab": "25924",
+    "idKec": "25975",
+    "idKel": "25979",
+    "Korsak": 8,
+    "TPS": 108
+}, {
+    "Kode": "31.73.07.1005",
+    "Nama": "KEMANGGISAN",
+    "idKab": "25924",
+    "idKec": "25975",
+    "idKel": "25980",
+    "Korsak": 8,
+    "TPS": 110
+}, {
+    "Kode": "31.73.07.1006",
+    "Nama": "KOTA BAMBU SELATAN",
+    "idKab": "25924",
+    "idKec": "25975",
+    "idKel": "25981",
+    "Korsak": 5,
+    "TPS": 74
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 45,
+    "TPS": 649
+}]

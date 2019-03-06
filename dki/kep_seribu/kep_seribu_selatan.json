@@ -1,0 +1,33 @@
+[{
+    "Kode": "31.01.02.1002",
+    "Nama": "PULAU TIDUNG",
+    "idKab": "25824",
+    "idKec": "25829",
+    "idKel": "25830",
+    "Korsak": 0,
+    "TPS": 14
+}, {
+    "Kode": "31.01.02.1003",
+    "Nama": "PULAU PARI",
+    "idKab": "25824",
+    "idKec": "25829",
+    "idKel": "25831",
+    "Korsak": 0,
+    "TPS": 8
+}, {
+    "Kode": "31.01.02.1001",
+    "Nama": "PULAU UNTUNG JAWA",
+    "idKab": "25824",
+    "idKec": "25829",
+    "idKel": "25832",
+    "Korsak": 0,
+    "TPS": 6
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 0,
+    "TPS": 28
+}]

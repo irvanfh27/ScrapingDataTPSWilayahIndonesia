@@ -1,0 +1,25 @@
+[{
+    "Kode": "31.01.01",
+    "Nama": "KEPULAUAN SERIBU UTARA",
+    "idKab": "25824",
+    "idKec": "25825",
+    "Kel": 3,
+    "Korsak": 0,
+    "TPS": 42
+}, {
+    "Kode": "31.01.02",
+    "Nama": "KEPULAUAN SERIBU SELATAN",
+    "idKab": "25824",
+    "idKec": "25829",
+    "Kel": 3,
+    "Korsak": 0,
+    "TPS": 28
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "Kel": 6,
+    "Korsak": 0,
+    "TPS": 70
+}]

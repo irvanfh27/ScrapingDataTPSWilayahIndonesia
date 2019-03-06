@@ -1,0 +1,281 @@
+[{
+    "Kode": "11",
+    "Nama": "ACEH",
+    "Kab": 23,
+    "Kec": 289,
+    "Kel": 6501,
+    "Korsak": 21,
+    "TPS": 15610
+}, {
+    "Kode": "12",
+    "Nama": "SUMATERA UTARA",
+    "Kab": 33,
+    "Kec": 444,
+    "Kel": 6111,
+    "Korsak": 1205,
+    "TPS": 42644
+}, {
+    "Kode": "13",
+    "Nama": "SUMATERA BARAT",
+    "Kab": 19,
+    "Kec": 179,
+    "Kel": 1159,
+    "Korsak": 697,
+    "TPS": 16702
+}, {
+    "Kode": "14",
+    "Nama": "RIAU",
+    "Kab": 12,
+    "Kec": 166,
+    "Kel": 1861,
+    "Korsak": 503,
+    "TPS": 17636
+}, {
+    "Kode": "15",
+    "Nama": "JAMBI",
+    "Kab": 11,
+    "Kec": 141,
+    "Kel": 1562,
+    "Korsak": 256,
+    "TPS": 11341
+}, {
+    "Kode": "16",
+    "Nama": "SUMATERA SELATAN",
+    "Kab": 17,
+    "Kec": 236,
+    "Kel": 3240,
+    "Korsak": 568,
+    "TPS": 25320
+}, {
+    "Kode": "17",
+    "Nama": "BENGKULU",
+    "Kab": 10,
+    "Kec": 128,
+    "Kel": 1513,
+    "Korsak": 55,
+    "TPS": 6165
+}, {
+    "Kode": "18",
+    "Nama": "LAMPUNG",
+    "Kab": 15,
+    "Kec": 228,
+    "Kel": 2640,
+    "Korsak": 561,
+    "TPS": 26265
+}, {
+    "Kode": "19",
+    "Nama": "KEPULAUAN BANGKA BELITUNG",
+    "Kab": 7,
+    "Kec": 47,
+    "Kel": 391,
+    "Korsak": 51,
+    "TPS": 3800
+}, {
+    "Kode": "21",
+    "Nama": "KEPULAUAN RIAU",
+    "Kab": 7,
+    "Kec": 70,
+    "Kel": 416,
+    "Korsak": 284,
+    "TPS": 5457
+}, {
+    "Kode": "31",
+    "Nama": "DKI JAKARTA",
+    "Kab": 6,
+    "Kec": 44,
+    "Kel": 267,
+    "Korsak": 2034,
+    "TPS": 29010
+}, {
+    "Kode": "32",
+    "Nama": "JAWA BARAT",
+    "Kab": 27,
+    "Kec": 627,
+    "Kel": 5957,
+    "Korsak": 7129,
+    "TPS": 138050
+}, {
+    "Kode": "33",
+    "Nama": "JAWA TENGAH",
+    "Kab": 35,
+    "Kec": 573,
+    "Kel": 8559,
+    "Korsak": 3410,
+    "TPS": 115391
+}, {
+    "Kode": "34",
+    "Nama": "DAERAH ISTIMEWA YOGYAKARTA",
+    "Kab": 5,
+    "Kec": 78,
+    "Kel": 438,
+    "Korsak": 732,
+    "TPS": 11780
+}, {
+    "Kode": "35",
+    "Nama": "JAWA TIMUR",
+    "Kab": 38,
+    "Kec": 666,
+    "Kel": 8501,
+    "Korsak": 4669,
+    "TPS": 130012
+}, {
+    "Kode": "36",
+    "Nama": "BANTEN",
+    "Kab": 8,
+    "Kec": 155,
+    "Kel": 1551,
+    "Korsak": 1668,
+    "TPS": 33420
+}, {
+    "Kode": "51",
+    "Nama": "BALI",
+    "Kab": 9,
+    "Kec": 57,
+    "Kel": 716,
+    "Korsak": 557,
+    "TPS": 12384
+}, {
+    "Kode": "52",
+    "Nama": "NUSA TENGGARA BARAT",
+    "Kab": 10,
+    "Kec": 116,
+    "Kel": 1137,
+    "Korsak": 598,
+    "TPS": 15988
+}, {
+    "Kode": "53",
+    "Nama": "NUSA TENGGARA TIMUR",
+    "Kab": 22,
+    "Kec": 309,
+    "Kel": 3354,
+    "Korsak": 113,
+    "TPS": 14978
+}, {
+    "Kode": "61",
+    "Nama": "KALIMANTAN BARAT",
+    "Kab": 14,
+    "Kec": 174,
+    "Kel": 2130,
+    "Korsak": 385,
+    "TPS": 16474
+}, {
+    "Kode": "62",
+    "Nama": "KALIMANTAN TENGAH",
+    "Kab": 14,
+    "Kec": 136,
+    "Kel": 1572,
+    "Korsak": 182,
+    "TPS": 8078
+}, {
+    "Kode": "63",
+    "Nama": "KALIMANTAN SELATAN",
+    "Kab": 13,
+    "Kec": 153,
+    "Kel": 2009,
+    "Korsak": 296,
+    "TPS": 13128
+}, {
+    "Kode": "64",
+    "Nama": "KALIMANTAN TIMUR",
+    "Kab": 10,
+    "Kec": 103,
+    "Kel": 1038,
+    "Korsak": 497,
+    "TPS": 10824
+}, {
+    "Kode": "71",
+    "Nama": "SULAWESI UTARA",
+    "Kab": 15,
+    "Kec": 171,
+    "Kel": 1839,
+    "Korsak": 83,
+    "TPS": 7825
+}, {
+    "Kode": "72",
+    "Nama": "SULAWESI TENGAH",
+    "Kab": 13,
+    "Kec": 175,
+    "Kel": 2017,
+    "Korsak": 87,
+    "TPS": 9179
+}, {
+    "Kode": "73",
+    "Nama": "SULAWESI SELATAN",
+    "Kab": 24,
+    "Kec": 307,
+    "Kel": 3051,
+    "Korsak": 408,
+    "TPS": 26348
+}, {
+    "Kode": "74",
+    "Nama": "SULAWESI TENGGARA",
+    "Kab": 17,
+    "Kec": 219,
+    "Kel": 2295,
+    "Korsak": 50,
+    "TPS": 7815
+}, {
+    "Kode": "75",
+    "Nama": "GORONTALO",
+    "Kab": 6,
+    "Kec": 77,
+    "Kel": 729,
+    "Korsak": 4,
+    "TPS": 3363
+}, {
+    "Kode": "76",
+    "Nama": "SULAWESI BARAT",
+    "Kab": 6,
+    "Kec": 69,
+    "Kel": 648,
+    "Korsak": 28,
+    "TPS": 3864
+}, {
+    "Kode": "81",
+    "Nama": "MALUKU",
+    "Kab": 11,
+    "Kec": 118,
+    "Kel": 1233,
+    "Korsak": 145,
+    "TPS": 5514
+}, {
+    "Kode": "82",
+    "Nama": "MALUKU UTARA",
+    "Kab": 10,
+    "Kec": 115,
+    "Kel": 1181,
+    "Korsak": 8,
+    "TPS": 3792
+}, {
+    "Kode": "91",
+    "Nama": "PAPUA",
+    "Kab": 29,
+    "Kec": 560,
+    "Kel": 5528,
+    "Korsak": 248,
+    "TPS": 15243
+}, {
+    "Kode": "92",
+    "Nama": "PAPUA BARAT",
+    "Kab": 13,
+    "Kec": 218,
+    "Kel": 1839,
+    "Korsak": 72,
+    "TPS": 3914
+}, {
+    "Kode": "65",
+    "Nama": "KALIMANTAN UTARA",
+    "Kab": 5,
+    "Kec": 53,
+    "Kel": 482,
+    "Korsak": 72,
+    "TPS": 2183
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "Kab": 514,
+    "Kec": 7201,
+    "Kel": 83465,
+    "Korsak": 27676,
+    "TPS": 809497
+}]

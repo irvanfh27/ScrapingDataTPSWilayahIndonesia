@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.72.04.1001",
+    "Nama": "CILINCING",
+    "idKab": "25886",
+    "idKec": "25908",
+    "idKel": "25909",
+    "Korsak": 9,
+    "TPS": 125
+}, {
+    "Kode": "31.72.04.1002",
+    "Nama": "SUKAPURA",
+    "idKab": "25886",
+    "idKec": "25908",
+    "idKel": "25910",
+    "Korsak": 12,
+    "TPS": 167
+}, {
+    "Kode": "31.72.04.1003",
+    "Nama": "MARUNDA",
+    "idKab": "25886",
+    "idKec": "25908",
+    "idKel": "25911",
+    "Korsak": 6,
+    "TPS": 82
+}, {
+    "Kode": "31.72.04.1004",
+    "Nama": "KALIBARU",
+    "idKab": "25886",
+    "idKec": "25908",
+    "idKel": "25912",
+    "Korsak": 15,
+    "TPS": 217
+}, {
+    "Kode": "31.72.04.1005",
+    "Nama": "SEMPER TIMUR",
+    "idKab": "25886",
+    "idKec": "25908",
+    "idKel": "25913",
+    "Korsak": 8,
+    "TPS": 110
+}, {
+    "Kode": "31.72.04.1006",
+    "Nama": "ROROTAN",
+    "idKab": "25886",
+    "idKec": "25908",
+    "idKel": "25914",
+    "Korsak": 8,
+    "TPS": 117
+}, {
+    "Kode": "31.72.04.1007",
+    "Nama": "SEMPER BARAT",
+    "idKab": "25886",
+    "idKec": "25908",
+    "idKel": "25915",
+    "Korsak": 15,
+    "TPS": 211
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 73,
+    "TPS": 1029
+}]

@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.73.05.1001",
+    "Nama": "KEBON JERUK",
+    "idKab": "25924",
+    "idKec": "25961",
+    "idKel": "25962",
+    "Korsak": 12,
+    "TPS": 177
+}, {
+    "Kode": "31.73.05.1002",
+    "Nama": "SUKABUMI UTARA",
+    "idKab": "25924",
+    "idKec": "25961",
+    "idKel": "25963",
+    "Korsak": 9,
+    "TPS": 126
+}, {
+    "Kode": "31.73.05.1003",
+    "Nama": "SUKABUMI SELATAN",
+    "idKab": "25924",
+    "idKec": "25961",
+    "idKel": "25964",
+    "Korsak": 8,
+    "TPS": 119
+}, {
+    "Kode": "31.73.05.1004",
+    "Nama": "KELAPA DUA",
+    "idKab": "25924",
+    "idKec": "25961",
+    "idKel": "25965",
+    "Korsak": 5,
+    "TPS": 71
+}, {
+    "Kode": "31.73.05.1005",
+    "Nama": "DURI KEPA",
+    "idKab": "25924",
+    "idKec": "25961",
+    "idKel": "25966",
+    "Korsak": 13,
+    "TPS": 195
+}, {
+    "Kode": "31.73.05.1006",
+    "Nama": "KEDOYA UTARA",
+    "idKab": "25924",
+    "idKec": "25961",
+    "idKel": "25967",
+    "Korsak": 10,
+    "TPS": 145
+}, {
+    "Kode": "31.73.05.1007",
+    "Nama": "KEDOYA SELATAN",
+    "idKab": "25924",
+    "idKec": "25961",
+    "idKel": "25968",
+    "Korsak": 7,
+    "TPS": 100
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 64,
+    "TPS": 933
+}]

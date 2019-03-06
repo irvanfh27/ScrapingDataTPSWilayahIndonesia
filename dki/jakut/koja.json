@@ -1,0 +1,57 @@
+[{
+    "Kode": "31.72.03.1001",
+    "Nama": "KOJA",
+    "idKab": "25886",
+    "idKec": "25901",
+    "idKel": "25902",
+    "Korsak": 6,
+    "TPS": 89
+}, {
+    "Kode": "31.72.03.1002",
+    "Nama": "TUGU UTARA",
+    "idKab": "25886",
+    "idKec": "25901",
+    "idKel": "25903",
+    "Korsak": 13,
+    "TPS": 193
+}, {
+    "Kode": "31.72.03.1003",
+    "Nama": "LAGOA",
+    "idKab": "25886",
+    "idKec": "25901",
+    "idKel": "25904",
+    "Korsak": 13,
+    "TPS": 185
+}, {
+    "Kode": "31.72.03.1004",
+    "Nama": "RAWA BADAK UTARA",
+    "idKab": "25886",
+    "idKec": "25901",
+    "idKel": "25905",
+    "Korsak": 7,
+    "TPS": 105
+}, {
+    "Kode": "31.72.03.1005",
+    "Nama": "TUGU SELATAN",
+    "idKab": "25886",
+    "idKec": "25901",
+    "idKel": "25906",
+    "Korsak": 7,
+    "TPS": 105
+}, {
+    "Kode": "31.72.03.1006",
+    "Nama": "RAWA BADAK SELATAN",
+    "idKab": "25886",
+    "idKec": "25901",
+    "idKel": "25907",
+    "Korsak": 8,
+    "TPS": 114
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 54,
+    "TPS": 791
+}]

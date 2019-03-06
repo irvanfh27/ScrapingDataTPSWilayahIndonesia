@@ -1,0 +1,73 @@
+[{
+    "Kode": "31.73.01",
+    "Nama": "CENGKARENG",
+    "idKab": "25924",
+    "idKec": "25925",
+    "Kel": 6,
+    "Korsak": 96,
+    "TPS": 1406
+}, {
+    "Kode": "31.73.02",
+    "Nama": "GROGOL PETAMBURAN",
+    "idKab": "25924",
+    "idKec": "25932",
+    "Kel": 7,
+    "Korsak": 45,
+    "TPS": 638
+}, {
+    "Kode": "31.73.03",
+    "Nama": "TAMAN SARI",
+    "idKab": "25924",
+    "idKec": "25940",
+    "Kel": 8,
+    "Korsak": 26,
+    "TPS": 351
+}, {
+    "Kode": "31.73.04",
+    "Nama": "TAMBORA",
+    "idKab": "25924",
+    "idKec": "25949",
+    "Kel": 11,
+    "Korsak": 54,
+    "TPS": 756
+}, {
+    "Kode": "31.73.05",
+    "Nama": "KEBON JERUK",
+    "idKab": "25924",
+    "idKec": "25961",
+    "Kel": 7,
+    "Korsak": 64,
+    "TPS": 933
+}, {
+    "Kode": "31.73.06",
+    "Nama": "KALIDERES",
+    "idKab": "25924",
+    "idKec": "25969",
+    "Kel": 5,
+    "Korsak": 80,
+    "TPS": 1173
+}, {
+    "Kode": "31.73.07",
+    "Nama": "PALMERAH",
+    "idKab": "25924",
+    "idKec": "25975",
+    "Kel": 6,
+    "Korsak": 45,
+    "TPS": 649
+}, {
+    "Kode": "31.73.08",
+    "Nama": "KEMBANGAN",
+    "idKab": "25924",
+    "idKec": "25982",
+    "Kel": 6,
+    "Korsak": 57,
+    "TPS": 824
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "Kel": 56,
+    "Korsak": 467,
+    "TPS": 6730
+}]

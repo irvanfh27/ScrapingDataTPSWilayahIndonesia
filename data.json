@@ -1,0 +1,26 @@
+{
+    "Test": {
+        "2-key": {
+            "titik_saksi": "DKI JAKARTA",
+            "children": [{
+                    "value": "Kepulauan Seribu"
+                },
+                {
+                    "value": "Jakarta Selatan"
+                },
+                {
+                    "value": "Jakarta Timur"
+                },
+                {
+                    "value": "Jakarta Pusat"
+                },
+                {
+                    "value": "Jakarta Utara"
+                },
+                {
+                    "value": "Jakarta Barat"
+                }
+            ]
+        }
+    }
+}

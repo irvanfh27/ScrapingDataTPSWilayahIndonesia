@@ -1,0 +1,97 @@
+[{
+    "Kode": "31.73.04.1001",
+    "Nama": "TAMBORA",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25950",
+    "Korsak": 3,
+    "TPS": 40
+}, {
+    "Kode": "31.73.04.1002",
+    "Nama": "KALI ANYAR",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25951",
+    "Korsak": 6,
+    "TPS": 86
+}, {
+    "Kode": "31.73.04.1003",
+    "Nama": "DURI UTARA",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25952",
+    "Korsak": 5,
+    "TPS": 65
+}, {
+    "Kode": "31.73.04.1004",
+    "Nama": "TANAH SEREAL",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25953",
+    "Korsak": 6,
+    "TPS": 86
+}, {
+    "Kode": "31.73.04.1005",
+    "Nama": "KRENDANG",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25954",
+    "Korsak": 5,
+    "TPS": 69
+}, {
+    "Kode": "31.73.04.1006",
+    "Nama": "JEMBATAN BESI",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25955",
+    "Korsak": 7,
+    "TPS": 94
+}, {
+    "Kode": "31.73.04.1007",
+    "Nama": "ANGKE",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25956",
+    "Korsak": 7,
+    "TPS": 99
+}, {
+    "Kode": "31.73.04.1008",
+    "Nama": "JEMBATAN LIMA",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25957",
+    "Korsak": 5,
+    "TPS": 70
+}, {
+    "Kode": "31.73.04.1009",
+    "Nama": "PEKOJAN",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25958",
+    "Korsak": 6,
+    "TPS": 83
+}, {
+    "Kode": "31.73.04.1010",
+    "Nama": "ROA MALAKA",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25959",
+    "Korsak": 0,
+    "TPS": 14
+}, {
+    "Kode": "31.73.04.1011",
+    "Nama": "DURI SELATAN",
+    "idKab": "25924",
+    "idKec": "25949",
+    "idKel": "25960",
+    "Korsak": 4,
+    "TPS": 50
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 54,
+    "TPS": 756
+}]

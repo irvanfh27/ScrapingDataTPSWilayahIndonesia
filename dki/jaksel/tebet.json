@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.74.01.1001",
+    "Nama": "TEBET TIMUR",
+    "idKab": "25989",
+    "idKec": "25990",
+    "idKel": "25991",
+    "Korsak": 5,
+    "TPS": 63
+}, {
+    "Kode": "31.74.01.1002",
+    "Nama": "TEBET BARAT",
+    "idKab": "25989",
+    "idKec": "25990",
+    "idKel": "25992",
+    "Korsak": 6,
+    "TPS": 81
+}, {
+    "Kode": "31.74.01.1003",
+    "Nama": "MENTENG DALAM",
+    "idKab": "25989",
+    "idKec": "25990",
+    "idKel": "25993",
+    "Korsak": 9,
+    "TPS": 127
+}, {
+    "Kode": "31.74.01.1004",
+    "Nama": "KEBON BARU",
+    "idKab": "25989",
+    "idKec": "25990",
+    "idKel": "25994",
+    "Korsak": 8,
+    "TPS": 120
+}, {
+    "Kode": "31.74.01.1005",
+    "Nama": "BUKIT DURI",
+    "idKab": "25989",
+    "idKec": "25990",
+    "idKel": "25995",
+    "Korsak": 8,
+    "TPS": 119
+}, {
+    "Kode": "31.74.01.1006",
+    "Nama": "MANGGARAI SELATAN",
+    "idKab": "25989",
+    "idKec": "25990",
+    "idKel": "25996",
+    "Korsak": 6,
+    "TPS": 81
+}, {
+    "Kode": "31.74.01.1007",
+    "Nama": "MANGGARAI",
+    "idKab": "25989",
+    "idKec": "25990",
+    "idKel": "25997",
+    "Korsak": 7,
+    "TPS": 103
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 49,
+    "TPS": 694
+}]      

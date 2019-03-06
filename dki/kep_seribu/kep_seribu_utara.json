@@ -1,0 +1,33 @@
+[{
+    "Kode": "31.01.01.1001",
+    "Nama": "PULAU PANGGANG",
+    "idKab": "25824",
+    "idKec": "25825",
+    "idKel": "25826",
+    "Korsak": 0,
+    "TPS": 17
+}, {
+    "Kode": "31.01.01.1002",
+    "Nama": "PULAU KELAPA",
+    "idKab": "25824",
+    "idKec": "25825",
+    "idKel": "25827",
+    "Korsak": 0,
+    "TPS": 18
+}, {
+    "Kode": "31.01.01.1003",
+    "Nama": "PULAU HARAPAN",
+    "idKab": "25824",
+    "idKec": "25825",
+    "idKel": "25828",
+    "Korsak": 0,
+    "TPS": 7
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 0,
+    "TPS": 42
+}]

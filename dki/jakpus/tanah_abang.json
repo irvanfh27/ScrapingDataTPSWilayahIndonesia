@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.71.07.1001",
+    "Nama": "GELORA",
+    "idKab": "25833",
+    "idKec": "25873",
+    "idKel": "25874",
+    "Korsak": 0,
+    "TPS": 11
+}, {
+    "Kode": "31.71.07.1002",
+    "Nama": "BENDUNGAN HILIR",
+    "idKab": "25833",
+    "idKec": "25873",
+    "idKel": "25875",
+    "Korsak": 6,
+    "TPS": 78
+}, {
+    "Kode": "31.71.07.1003",
+    "Nama": "KARET TENGSIN",
+    "idKab": "25833",
+    "idKec": "25873",
+    "idKel": "25876",
+    "Korsak": 5,
+    "TPS": 63
+}, {
+    "Kode": "31.71.07.1004",
+    "Nama": "PETAMBURAN",
+    "idKab": "25833",
+    "idKec": "25873",
+    "idKel": "25877",
+    "Korsak": 8,
+    "TPS": 109
+}, {
+    "Kode": "31.71.07.1005",
+    "Nama": "KEBON MELATI",
+    "idKab": "25833",
+    "idKec": "25873",
+    "idKel": "25878",
+    "Korsak": 7,
+    "TPS": 103
+}, {
+    "Kode": "31.71.07.1006",
+    "Nama": "KEBON KACANG",
+    "idKab": "25833",
+    "idKec": "25873",
+    "idKel": "25879",
+    "Korsak": 5,
+    "TPS": 75
+}, {
+    "Kode": "31.71.07.1007",
+    "Nama": "KAMPUNG BALI",
+    "idKab": "25833",
+    "idKec": "25873",
+    "idKel": "25880",
+    "Korsak": 3,
+    "TPS": 42
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 34,
+    "TPS": 481
+}]

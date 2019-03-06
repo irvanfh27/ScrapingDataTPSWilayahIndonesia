@@ -1,0 +1,49 @@
+[{
+    "Kode": "31.73.06.1001",
+    "Nama": "KALIDERES",
+    "idKab": "25924",
+    "idKec": "25969",
+    "idKel": "25970",
+    "Korsak": 16,
+    "TPS": 231
+}, {
+    "Kode": "31.73.06.1002",
+    "Nama": "SEMANAN",
+    "idKab": "25924",
+    "idKec": "25969",
+    "idKel": "25971",
+    "Korsak": 16,
+    "TPS": 235
+}, {
+    "Kode": "31.73.06.1003",
+    "Nama": "TEGAL ALUR",
+    "idKab": "25924",
+    "idKec": "25969",
+    "idKel": "25972",
+    "Korsak": 19,
+    "TPS": 283
+}, {
+    "Kode": "31.73.06.1004",
+    "Nama": "KAMAL",
+    "idKab": "25924",
+    "idKec": "25969",
+    "idKel": "25973",
+    "Korsak": 12,
+    "TPS": 180
+}, {
+    "Kode": "31.73.06.1005",
+    "Nama": "PEGADUNGAN",
+    "idKab": "25924",
+    "idKec": "25969",
+    "idKel": "25974",
+    "Korsak": 17,
+    "TPS": 244
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 80,
+    "TPS": 1173
+}]

@@ -1,0 +1,89 @@
+[{
+    "Kode": "31.74.01",
+    "Nama": "TEBET",
+    "idKab": "25989",
+    "idKec": "25990",
+    "Kel": 7,
+    "Korsak": 49,
+    "TPS": 694
+}, {
+    "Kode": "31.74.02",
+    "Nama": "SETIABUDI",
+    "idKab": "25989",
+    "idKec": "25998",
+    "Kel": 8,
+    "Korsak": 21,
+    "TPS": 333
+}, {
+    "Kode": "31.74.03",
+    "Nama": "MAMPANG PRAPATAN",
+    "idKab": "25989",
+    "idKec": "26007",
+    "Kel": 5,
+    "Korsak": 30,
+    "TPS": 434
+}, {
+    "Kode": "31.74.04",
+    "Nama": "PASAR MINGGU",
+    "idKab": "25989",
+    "idKec": "26013",
+    "Kel": 7,
+    "Korsak": 62,
+    "TPS": 881
+}, {
+    "Kode": "31.74.05",
+    "Nama": "KEBAYORAN LAMA",
+    "idKab": "25989",
+    "idKec": "26021",
+    "Kel": 6,
+    "Korsak": 60,
+    "TPS": 868
+}, {
+    "Kode": "31.74.06",
+    "Nama": "CILANDAK",
+    "idKab": "25989",
+    "idKec": "26028",
+    "Kel": 5,
+    "Korsak": 46,
+    "TPS": 649
+}, {
+    "Kode": "31.74.07",
+    "Nama": "KEBAYORAN BARU",
+    "idKab": "25989",
+    "idKec": "26034",
+    "Kel": 10,
+    "Korsak": 32,
+    "TPS": 460
+}, {
+    "Kode": "31.74.08",
+    "Nama": "PANCORAN",
+    "idKab": "25989",
+    "idKec": "26045",
+    "Kel": 6,
+    "Korsak": 36,
+    "TPS": 483
+}, {
+    "Kode": "31.74.09",
+    "Nama": "JAGAKARSA",
+    "idKab": "25989",
+    "idKec": "26052",
+    "Kel": 6,
+    "Korsak": 68,
+    "TPS": 971
+}, {
+    "Kode": "31.74.10",
+    "Nama": "PESANGGRAHAN",
+    "idKab": "25989",
+    "idKec": "26059",
+    "Kel": 5,
+    "Korsak": 47,
+    "TPS": 676
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "Kel": 65,
+    "Korsak": 451,
+    "TPS": 6449
+}]

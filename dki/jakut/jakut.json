@@ -1,0 +1,57 @@
+[{
+    "Kode": "31.72.01",
+    "Nama": "PENJARINGAN",
+    "idKab": "25886",
+    "idKec": "25887",
+    "Kel": 5,
+    "Korsak": 58,
+    "TPS": 851
+}, {
+    "Kode": "31.72.02",
+    "Nama": "TANJUNG PRIOK",
+    "idKab": "25886",
+    "idKec": "25893",
+    "Kel": 7,
+    "Korsak": 75,
+    "TPS": 1064
+}, {
+    "Kode": "31.72.03",
+    "Nama": "KOJA",
+    "idKab": "25886",
+    "idKec": "25901",
+    "Kel": 6,
+    "Korsak": 54,
+    "TPS": 791
+}, {
+    "Kode": "31.72.04",
+    "Nama": "CILINCING",
+    "idKab": "25886",
+    "idKec": "25908",
+    "Kel": 7,
+    "Korsak": 73,
+    "TPS": 1029
+}, {
+    "Kode": "31.72.05",
+    "Nama": "PADEMANGAN",
+    "idKab": "25886",
+    "idKec": "25916",
+    "Kel": 3,
+    "Korsak": 31,
+    "TPS": 426
+}, {
+    "Kode": "31.72.06",
+    "Nama": "KELAPA GADING",
+    "idKab": "25886",
+    "idKec": "25920",
+    "Kel": 3,
+    "Korsak": 28,
+    "TPS": 402
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "Kel": 31,
+    "Korsak": 319,
+    "TPS": 4563
+}]

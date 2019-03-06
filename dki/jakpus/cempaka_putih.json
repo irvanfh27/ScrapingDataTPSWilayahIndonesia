@@ -1,0 +1,33 @@
+[{
+    "Kode": "31.71.05.1001",
+    "Nama": "CEMPAKA PUTIH TIMUR",
+    "idKab": "25833",
+    "idKec": "25863",
+    "idKel": "25864",
+    "Korsak": 6,
+    "TPS": 78
+}, {
+    "Kode": "31.71.05.1002",
+    "Nama": "CEMPAKA PUTIH BARAT",
+    "idKab": "25833",
+    "idKec": "25863",
+    "idKel": "25865",
+    "Korsak": 8,
+    "TPS": 111
+}, {
+    "Kode": "31.71.05.1003",
+    "Nama": "RAWASARI",
+    "idKab": "25833",
+    "idKec": "25863",
+    "idKel": "25866",
+    "Korsak": 5,
+    "TPS": 68
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 19,
+    "TPS": 257
+}]

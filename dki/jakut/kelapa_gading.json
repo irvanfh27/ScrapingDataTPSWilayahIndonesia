@@ -1,0 +1,33 @@
+[{
+    "Kode": "31.72.06.1001",
+    "Nama": "KELAPA GADING TIMUR",
+    "idKab": "25886",
+    "idKec": "25920",
+    "idKel": "25921",
+    "Korsak": 8,
+    "TPS": 118
+}, {
+    "Kode": "31.72.06.1002",
+    "Nama": "PEGANGSAAN DUA",
+    "idKab": "25886",
+    "idKec": "25920",
+    "idKel": "25922",
+    "Korsak": 12,
+    "TPS": 168
+}, {
+    "Kode": "31.72.06.1003",
+    "Nama": "KELAPA GADING BARAT",
+    "idKab": "25886",
+    "idKec": "25920",
+    "idKel": "25923",
+    "Korsak": 8,
+    "TPS": 116
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 28,
+    "TPS": 402
+}]

@@ -1,0 +1,57 @@
+[{
+    "Kode": "31.01",
+    "Nama": "KEPULAUAN SERIBU",
+    "idKab": "25824",
+    "Kec": 2,
+    "Kel": 6,
+    "Korsak": 0,
+    "TPS": 70
+}, {
+    "Kode": "31.71",
+    "Nama": "JAKARTA PUSAT",
+    "idKab": "25833",
+    "Kec": 8,
+    "Kel": 44,
+    "Korsak": 216,
+    "TPS": 2992
+}, {
+    "Kode": "31.72",
+    "Nama": "JAKARTA UTARA",
+    "idKab": "25886",
+    "Kec": 6,
+    "Kel": 31,
+    "Korsak": 319,
+    "TPS": 4563
+}, {
+    "Kode": "31.73",
+    "Nama": "JAKARTA BARAT",
+    "idKab": "25924",
+    "Kec": 8,
+    "Kel": 56,
+    "Korsak": 467,
+    "TPS": 6730
+}, {
+    "Kode": "31.74",
+    "Nama": "JAKARTA SELATAN",
+    "idKab": "25989",
+    "Kec": 10,
+    "Kel": 65,
+    "Korsak": 451,
+    "TPS": 6449
+}, {
+    "Kode": "31.75",
+    "Nama": "JAKARTA TIMUR",
+    "idKab": "26065",
+    "Kec": 10,
+    "Kel": 65,
+    "Korsak": 581,
+    "TPS": 8206
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "Kec": 44,
+    "Kel": 267,
+    "Korsak": 2034,
+    "TPS": 29010
+}]
