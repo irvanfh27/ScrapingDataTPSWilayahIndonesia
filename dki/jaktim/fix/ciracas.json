@@ -1,0 +1,24 @@
+{
+    "Kecamatan": {
+        "jaktim-ciracas": {
+            "titik_saksi": "Ciracas",
+            "children": [{
+                    "value": "CIRACAS"
+
+                },
+                {
+                    "value": "CIBUBUR"
+                },
+                {
+                    "value": "KELAPA DUA WETAN"
+                },
+                {
+                    "value": "SUSUKAN"
+                },
+                {
+                    "value": "RAMBUTAN"
+                }
+            ]
+        }
+    }
+}
