@@ -1,0 +1,131 @@
+{
+    "Kecamatan": {
+        "jakarta_utara-cilincing": {
+            "titik_saksi": "Cilincing",
+            "children": [
+
+                {
+                    "value": "CILINCING"
+                },
+                {
+                    "value": "SUKAPURA"
+                },
+                {
+                    "value": "MARUNDA"
+                },
+                {
+                    "value": "KALIBARU"
+                },
+                {
+                    "value": "SEMPER TIMUR"
+                },
+                {
+                    "value": "ROROTAN"
+                },
+                {
+                    "value": "SEMPER BARAT"
+                }
+            ]
+        },
+        "jakarta_utara-kelapa_gading": {
+            "titik_saksi": "Kelapa Gading",
+            "children": [
+
+                {
+                    "value": "KELAPA GADING TIMUR"
+                },
+                {
+                    "value": "PEGANGSAAN DUA"
+                },
+                {
+                    "value": "KELAPA GADING BARAT"
+                }
+            ]
+        },
+        "jakarta_utara-koja": {
+            "titik_saksi": "Koja",
+            "children": [{
+                    "value": "KOJA"
+                },
+                {
+                    "value": "TUGU UTARA"
+                },
+                {
+                    "value": "LAGOA"
+                },
+                {
+                    "value": "RAWA BADAK UTARA"
+                },
+                {
+                    "value": "TUGU SELATAN"
+                },
+                {
+                    "value": "RAWA BADAK SELATAN"
+                }
+            ]
+        },
+        "jakarta_utara-pademangan": {
+            "titik_saksi": "Pademangan",
+            "children": [
+
+                {
+                    "value": "PADEMANGAN TIMUR"
+                },
+                {
+                    "value": "PADEMANGAN BARAT"
+                },
+                {
+                    "value": "ANCOL"
+                }
+            ]
+        },
+        "jakarta_utara-penjaringan": {
+            "titik_saksi": "Penjaringan",
+            "children": [
+
+                {
+                    "value": "PENJARINGAN"
+                },
+                {
+                    "value": "KAMAL MUARA"
+                },
+                {
+                    "value": "KAPUK MUARA"
+                },
+                {
+                    "value": "PEJAGALAN"
+                },
+                {
+                    "value": "PLUIT"
+                }
+            ]
+        },
+        "jakarta_utara-tanjung_priok": {
+            "titik_saksi": "Tanjung Priok",
+            "children": [
+
+                {
+                    "value": "TANJUNG PRIOK"
+                },
+                {
+                    "value": "SUNTER JAYA"
+                },
+                {
+                    "value": "PAPANGGO"
+                },
+                {
+                    "value": "SUNGAI BAMBU"
+                },
+                {
+                    "value": "KEBON BAWANG"
+                },
+                {
+                    "value": "SUNTER AGUNG"
+                },
+                {
+                    "value": "WARAKAS"
+                }
+            ]
+        }
+    }
+}
