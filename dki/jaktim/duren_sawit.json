@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.75.07.1001",
+    "Nama": "DUREN SAWIT",
+    "idKab": "26065",
+    "idKec": "26112",
+    "idKel": "26113",
+    "Korsak": 13,
+    "TPS": 192
+}, {
+    "Kode": "31.75.07.1002",
+    "Nama": "PONDOK BAMBU",
+    "idKab": "26065",
+    "idKec": "26112",
+    "idKel": "26114",
+    "Korsak": 13,
+    "TPS": 191
+}, {
+    "Kode": "31.75.07.1003",
+    "Nama": "KLENDER",
+    "idKab": "26065",
+    "idKec": "26112",
+    "idKel": "26115",
+    "Korsak": 15,
+    "TPS": 211
+}, {
+    "Kode": "31.75.07.1004",
+    "Nama": "PONDOK KELAPA",
+    "idKab": "26065",
+    "idKec": "26112",
+    "idKel": "26116",
+    "Korsak": 16,
+    "TPS": 238
+}, {
+    "Kode": "31.75.07.1005",
+    "Nama": "MALAKA SARI",
+    "idKab": "26065",
+    "idKec": "26112",
+    "idKel": "26117",
+    "Korsak": 6,
+    "TPS": 87
+}, {
+    "Kode": "31.75.07.1006",
+    "Nama": "MALAKA JAYA",
+    "idKab": "26065",
+    "idKec": "26112",
+    "idKel": "26118",
+    "Korsak": 7,
+    "TPS": 95
+}, {
+    "Kode": "31.75.07.1007",
+    "Nama": "PONDOK KOPI",
+    "idKab": "26065",
+    "idKec": "26112",
+    "idKel": "26119",
+    "Korsak": 8,
+    "TPS": 109
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 78,
+    "TPS": 1123
+}]
