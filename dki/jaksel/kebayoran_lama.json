@@ -1,0 +1,57 @@
+[{
+    "Kode": "31.74.05.1001",
+    "Nama": "KEBAYORAN LAMA UTARA",
+    "idKab": "25989",
+    "idKec": "26021",
+    "idKel": "26022",
+    "Korsak": 10,
+    "TPS": 145
+}, {
+    "Kode": "31.74.05.1002",
+    "Nama": "PONDOK PINANG",
+    "idKab": "25989",
+    "idKec": "26021",
+    "idKel": "26023",
+    "Korsak": 12,
+    "TPS": 177
+}, {
+    "Kode": "31.74.05.1003",
+    "Nama": "CIPULIR",
+    "idKab": "25989",
+    "idKec": "26021",
+    "idKel": "26024",
+    "Korsak": 9,
+    "TPS": 126
+}, {
+    "Kode": "31.74.05.1004",
+    "Nama": "GROGOL UTARA",
+    "idKab": "25989",
+    "idKec": "26021",
+    "idKel": "26025",
+    "Korsak": 10,
+    "TPS": 139
+}, {
+    "Kode": "31.74.05.1005",
+    "Nama": "GROGOL SELATAN",
+    "idKab": "25989",
+    "idKec": "26021",
+    "idKel": "26026",
+    "Korsak": 10,
+    "TPS": 147
+}, {
+    "Kode": "31.74.05.1006",
+    "Nama": "KEBAYORAN LAMA SELATAN",
+    "idKab": "25989",
+    "idKec": "26021",
+    "idKel": "26027",
+    "Korsak": 9,
+    "TPS": 134
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 60,
+    "TPS": 868
+}]

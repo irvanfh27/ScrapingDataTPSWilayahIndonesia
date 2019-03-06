@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import json
 
 
-url = "http://dom.garbiapp.com/kpu/wilayah/?op=wilayah&q=26007&lev=4&parent=25989"
+url = "http://dom.garbiapp.com/kpu/wilayah/?op=wilayah&q=26021&lev=4&parent=25989"
 res = requests.get(url)
 soup = BeautifulSoup(res.content,'lxml')
 table = soup.find_all('table')[0] 
