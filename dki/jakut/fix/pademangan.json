@@ -1,0 +1,22 @@
+{
+    "Kecamatan": {
+        "jakarta_utara-pademangan": {
+            "titik_saksi": "Pademangan",
+            "children": [
+
+                {
+                    "value": "PADEMANGAN TIMUR"
+                },
+                {
+                    "value": "PADEMANGAN BARAT"
+                },
+                {
+                    "value": "ANCOL"
+                },
+                {
+                    "value": "Jumlah"
+                }
+            ]
+        }
+    }
+}
