@@ -1,0 +1,19 @@
+{
+    "Kecamatan": {
+        "jaktim-kelapa_gading": {
+            "titik_saksi": "Kelapa Gading",
+            "children": [
+
+                {
+                    "value": "KELAPA GADING TIMUR"
+                },
+                {
+                    "value": "PEGANGSAAN DUA"
+                },
+                {
+                    "value": "KELAPA GADING BARAT"
+                }
+            ]
+        }
+    }
+}
