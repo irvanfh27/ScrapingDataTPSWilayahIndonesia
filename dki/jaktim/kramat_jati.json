@@ -1,0 +1,65 @@
+[{
+    "Kode": "31.75.04.1001",
+    "Nama": "KRAMATJATI",
+    "idKab": "26065",
+    "idKec": "26090",
+    "idKel": "26091",
+    "Korsak": 8,
+    "TPS": 108
+}, {
+    "Kode": "31.75.04.1002",
+    "Nama": "TENGAH",
+    "idKab": "26065",
+    "idKec": "26090",
+    "idKel": "26092",
+    "Korsak": 10,
+    "TPS": 142
+}, {
+    "Kode": "31.75.04.1003",
+    "Nama": "DUKUH",
+    "idKab": "26065",
+    "idKec": "26090",
+    "idKel": "26093",
+    "Korsak": 6,
+    "TPS": 76
+}, {
+    "Kode": "31.75.04.1004",
+    "Nama": "BATU AMPAR",
+    "idKab": "26065",
+    "idKec": "26090",
+    "idKel": "26094",
+    "Korsak": 11,
+    "TPS": 153
+}, {
+    "Kode": "31.75.04.1005",
+    "Nama": "BALEKAMBANG",
+    "idKab": "26065",
+    "idKec": "26090",
+    "idKel": "26095",
+    "Korsak": 7,
+    "TPS": 94
+}, {
+    "Kode": "31.75.04.1006",
+    "Nama": "CILILITAN",
+    "idKab": "26065",
+    "idKec": "26090",
+    "idKel": "26096",
+    "Korsak": 9,
+    "TPS": 130
+}, {
+    "Kode": "31.75.04.1007",
+    "Nama": "CAWANG",
+    "idKab": "26065",
+    "idKec": "26090",
+    "idKel": "26097",
+    "Korsak": 8,
+    "TPS": 111
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 59,
+    "TPS": 814
+}]
