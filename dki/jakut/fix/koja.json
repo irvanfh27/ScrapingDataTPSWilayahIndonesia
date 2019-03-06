@@ -1,0 +1,26 @@
+{
+    "Kecamatan": {
+        "jakarta_utara-koja": {
+            "titik_saksi": "Koja",
+            "children": [{
+                    "value": "KOJA"
+                },
+                {
+                    "value": "TUGU UTARA"
+                },
+                {
+                    "value": "LAGOA"
+                },
+                {
+                    "value": "RAWA BADAK UTARA"
+                },
+                {
+                    "value": "TUGU SELATAN"
+                },
+                {
+                    "value": "RAWA BADAK SELATAN"
+                }
+            ]
+        }
+    }
+}
