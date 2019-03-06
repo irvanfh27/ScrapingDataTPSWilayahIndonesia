@@ -1,0 +1,49 @@
+[{
+    "Kode": "31.75.08.1001",
+    "Nama": "MAKASAR",
+    "idKab": "26065",
+    "idKec": "26120",
+    "idKel": "26121",
+    "Korsak": 9,
+    "TPS": 123
+}, {
+    "Kode": "31.75.08.1002",
+    "Nama": "PINANGRANTI",
+    "idKab": "26065",
+    "idKec": "26120",
+    "idKel": "26122",
+    "Korsak": 6,
+    "TPS": 88
+}, {
+    "Kode": "31.75.08.1003",
+    "Nama": "KEBON PALA",
+    "idKab": "26065",
+    "idKec": "26120",
+    "idKel": "26123",
+    "Korsak": 11,
+    "TPS": 164
+}, {
+    "Kode": "31.75.08.1004",
+    "Nama": "HALIM PERDANA KUSUMA",
+    "idKab": "26065",
+    "idKec": "26120",
+    "idKel": "26124",
+    "Korsak": 6,
+    "TPS": 76
+}, {
+    "Kode": "31.75.08.1005",
+    "Nama": "CIPINANG MELAYU",
+    "idKab": "26065",
+    "idKec": "26120",
+    "idKel": "26125",
+    "Korsak": 10,
+    "TPS": 146
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "idKel": "Jumlah",
+    "Korsak": 42,
+    "TPS": 597
+}]
