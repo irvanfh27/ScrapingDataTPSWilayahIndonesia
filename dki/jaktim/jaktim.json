@@ -1,0 +1,89 @@
+[{
+    "Kode": "31.75.01",
+    "Nama": "MATRAMAN",
+    "idKab": "26065",
+    "idKec": "26066",
+    "Kel": 6,
+    "Korsak": 37,
+    "TPS": 499
+}, {
+    "Kode": "31.75.02",
+    "Nama": "PULOGADUNG",
+    "idKab": "26065",
+    "idKec": "26073",
+    "Kel": 7,
+    "Korsak": 57,
+    "TPS": 803
+}, {
+    "Kode": "31.75.03",
+    "Nama": "JATINEGARA",
+    "idKab": "26065",
+    "idKec": "26081",
+    "Kel": 8,
+    "Korsak": 62,
+    "TPS": 863
+}, {
+    "Kode": "31.75.04",
+    "Nama": "KRAMATJATI",
+    "idKab": "26065",
+    "idKec": "26090",
+    "Kel": 7,
+    "Korsak": 59,
+    "TPS": 814
+}, {
+    "Kode": "31.75.05",
+    "Nama": "PASAR REBO",
+    "idKab": "26065",
+    "idKec": "26098",
+    "Kel": 5,
+    "Korsak": 40,
+    "TPS": 552
+}, {
+    "Kode": "31.75.06",
+    "Nama": "CAKUNG",
+    "idKab": "26065",
+    "idKec": "26104",
+    "Kel": 7,
+    "Korsak": 101,
+    "TPS": 1461
+}, {
+    "Kode": "31.75.07",
+    "Nama": "DUREN SAWIT",
+    "idKab": "26065",
+    "idKec": "26112",
+    "Kel": 7,
+    "Korsak": 78,
+    "TPS": 1123
+}, {
+    "Kode": "31.75.08",
+    "Nama": "MAKASAR",
+    "idKab": "26065",
+    "idKec": "26120",
+    "Kel": 5,
+    "Korsak": 42,
+    "TPS": 597
+}, {
+    "Kode": "31.75.09",
+    "Nama": "CIRACAS",
+    "idKab": "26065",
+    "idKec": "26126",
+    "Kel": 5,
+    "Korsak": 54,
+    "TPS": 785
+}, {
+    "Kode": "31.75.10",
+    "Nama": "CIPAYUNG",
+    "idKab": "26065",
+    "idKec": "26132",
+    "Kel": 8,
+    "Korsak": 51,
+    "TPS": 709
+}, {
+    "Kode": "Jumlah",
+    "Nama": "Jumlah",
+    "idKab": "Jumlah",
+    "idKec": "Jumlah",
+    "Kel": 65,
+    "Korsak": 581,
+    "TPS": 8206
+}]

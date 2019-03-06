@@ -5,10 +5,10 @@ import json
 
 idKec = 26028
 
-url = "http://dom.garbiapp.com/kpu/wilayah/?op=wilayah&q=26059&lev=4&parent=25989"
+url = "http://dom.garbiapp.com/kpu/wilayah/?op=wilayah&q=26066&lev=4&parent=26065"
 res = requests.get(url)
-soup = BeautifulSoup(res.content,'lxml')
-table = soup.find_all('table')[0] 
+soup = BeautifulSoup(res.content, 'lxml')
+table = soup.find_all('table')[0]
 df = pd.read_html(str(table))
 
 print(df[0].to_json(orient='records'))
