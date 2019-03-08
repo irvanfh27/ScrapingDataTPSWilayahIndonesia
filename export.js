@@ -1,6 +1,7 @@
 const admin = require("firebase-admin");
 const fs = require('fs');
-const serviceAccount = require("persuatif.json");
+const serviceAccount = require("./aksiloo.json");
+
 
 let collectionName = process.argv[2];
 let subCollection = process.argv[3];
@@ -8,7 +9,8 @@ let subCollection = process.argv[3];
 // You should replace databaseURL with your own
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://ionic-firestore-dn.firebaseio.com"
+  databaseURL: "https://aksiloo.firebaseio.com"
+
 });
 
 let db = admin.firestore();
