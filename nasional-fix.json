@@ -1,112 +1,143 @@
 {
-    "NASIONAL": {
-        "01": {
-            "tingkat_saksi": "Nasional",
+    "Nasional": {
+        "Indonesia": {
+            "titik_saksi": "Nasional",
             "children": [
 
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "ACEH"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "SUMATERA UTARA"
-
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "SUMATERA BARAT"
-
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "RIAU"
-
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "JAMBI"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "SUMATERA SELATAN"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "BENGKULU"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "LAMPUNG"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "KEPULAUAN BANGKA BELITUNG"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "KEPULAUAN RIAU"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "DKI JAKARTA"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "JAWA BARAT"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "JAWA TENGAH"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "DAERAH ISTIMEWA YOGYAKARTA"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "JAWA TIMUR"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "BANTEN"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "BALI"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "NUSA TENGGARA BARAT"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "NUSA TENGGARA TIMUR"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "KALIMANTAN BARAT"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "KALIMANTAN TENGAH"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "KALIMANTAN SELATAN"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "KALIMANTAN TIMUR"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "SULAWESI UTARA"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "SULAWESI TENGAH"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "SULAWESI SELATAN"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "SULAWESI TENGGARA"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "GORONTALO"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "SULAWESI BARAT"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "MALUKU"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "MALUKU UTARA"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "PAPUA"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "PAPUA BARAT"
                 },
                 {
+                    "tingkat_saksi": "Provinsi",
                     "value": "KALIMANTAN UTARA"
                 }
             ]

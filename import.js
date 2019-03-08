@@ -1,13 +1,13 @@
 const admin = require('firebase-admin');
-const serviceAccount = require("./aksilo-dev.json");
+const serviceAccount = require("./aksiloo.json");
 const randomstring = require('randomstring');
 
-const data = require("./dki/jakut//fix/kelurahan_cilincing.json");
+const data = require("./dki/jaktim/fix/kecamatan-jaktim.json");
 const asd = randomstring.generate();
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    databaseURL: "https://aksilo-dev.firebaseio.com"
+    databaseURL: "https://aksiloo.firebaseio.com"
 });
 
 data && Object.keys(data).forEach(key => {

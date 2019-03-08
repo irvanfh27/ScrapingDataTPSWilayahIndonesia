@@ -1,7 +1,7 @@
 {
     "Kelurahan": {
         "cilincing": {
-            "titik_saksi": "Cilincing",
+            "titik_saksi": "CILINCING",
             "children": [{
                     "value": "001"
                 }, {
@@ -373,7 +373,7 @@
             ]
         },
         "cilincing-sukapura": {
-            "titik_saksi": "Sukapura",
+            "titik_saksi": "SUKAPURA",
             "children": [{
                     "value": "001"
                 }, {
@@ -871,7 +871,7 @@
             ]
         },
         "cilincing-marunda": {
-            "titik_saksi": "Marunda",
+            "titik_saksi": "MARUNDA",
             "children": [{
                     "value": "001"
                 }, {
@@ -1115,7 +1115,7 @@
 
         },
         "cilincing-kalibaru": {
-            "titik_saksi": "Kalibaru",
+            "titik_saksi": "KALIBARU",
             "children": [{
                     "value": "001"
                 }, {
@@ -1763,7 +1763,7 @@
             ]
         },
         "cilincing-semper_timur": {
-            "titik_saksi": "Semper Timur",
+            "titik_saksi": "SEMPER TIMUR",
             "children": [{
                     "value": "001"
                 }, {
@@ -2090,7 +2090,7 @@
             ]
         },
         "cilincing-rorotan": {
-            "titik_saksi": "Rorotan",
+            "titik_saksi": "ROROTAN",
             "children": [{
                     "value": "001"
                 }, {
@@ -2438,7 +2438,7 @@
             ]
         },
         "cilincing-semper_barat": {
-            "titik_saksi": "Semper Barat",
+            "titik_saksi": "SEMPER BARAT",
             "children": [{
                     "value": "001"
                 }, {

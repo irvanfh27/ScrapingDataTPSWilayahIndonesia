@@ -1,0 +1,168 @@
+{
+    "Kecamatan": {
+        "Jakarta_utara-cilincing": {
+            "titik_saksi": "Cilincing",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Cilincing"
+
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Sukapura"
+
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Marunda"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Kalibaru"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Semper Timur"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Rorotan"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Semper Barat"
+                }
+            ]
+        },
+        "Jakarta_utara-kelapa_gading": {
+            "titik_saksi": "Kelapa Gading",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Kelapa Gading Timur"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pegangsaan Dua"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Kelapa Gading Barat"
+                }
+            ]
+        },
+        "Jakarta_utara-koja": {
+            "titik_saksi": "Koja",
+            "children": [{
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Koja"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Tugu Utara"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Lagoa"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Rawa Badak Utara"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Tugu Selatan"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Rawa Badak Selatan"
+                }
+            ]
+        },
+        "Jakarta_utara-pademangan": {
+            "titik_saksi": "Pademangan",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pademangan Timur"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pademangan Barat"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Ancol"
+                }
+            ]
+        },
+        "Jakarta_utara-penjaringan": {
+            "titik_saksi": "Penjaringan",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Penjaringan"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Kamal Muara"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Kapuk Muara"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pejagalan"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pluit"
+                }
+            ]
+        },
+        "Jakarta_utara-tanjung_priok": {
+            "titik_saksi": "Tanjung Priok",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Tanjung Priok"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Sunter Jaya"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Papanggo"
+
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Sungai Bambu"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Kebon Bawang"
+
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Sunter Agung"
+
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Warakas"
+
+                }
+            ]
+        }
+    }
+}

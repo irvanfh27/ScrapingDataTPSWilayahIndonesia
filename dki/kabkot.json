@@ -1,0 +1,95 @@
+{
+    "Kubpaten & Kota": {
+        "jakarta_timur": {
+            "titik_saksi": "JAKARTA TIMUR",
+            "children": [
+
+                {
+                    "value": "MATRAMAN"
+                },
+                {
+                    "value": "PULOGADUNG"
+                },
+                {
+                    "value": "JATINEGARA"
+                },
+                {
+                    "value": "KRAMATJATI"
+                },
+                {
+                    "value": "PASAR REBO"
+                },
+                {
+                    "value": "CAKUNG"
+                },
+                {
+                    "value": "DUREN SAWIT"
+                },
+                {
+                    "value": "MAKASAR"
+                },
+                {
+                    "value": "CIRACAS"
+                },
+                {
+                    "value": "CIPAYUNG"
+                }
+            ]
+        },
+        "jakarta_utara": {
+            "titik_saksi": "JAKARTA UTARA",
+            "children": [
+
+                {
+                    "value": "CILINCING"
+                },
+                {
+                    "value": "KELAPA GADING"
+                },
+                {
+                    "value": "KOJA"
+                },
+                {
+                    "value": "PADEMANGAN"
+                },
+                {
+                    "value": "PENJARINGAN"
+                },
+                {
+                    "value": "TANJUNG PRIOK"
+                }
+            ]
+
+        },
+        "jakarta_pusat": {
+            "titik_saksi": "JAKARTA PUSAT",
+            "children": [
+
+                {
+                    "value": "GAMBIR"
+                },
+                {
+                    "value": "SAWAH BESAR"
+                },
+                {
+                    "value": "KEMAYORAN"
+                },
+                {
+                    "value": "SENEN"
+                },
+                {
+                    "value": "CEMPAKA PUTIH"
+                },
+                {
+                    "value": "MENTENG"
+                },
+                {
+                    "value": "TANAH ABANG"
+                },
+                {
+                    "value": "JOHAR BARU"
+                }
+            ]
+        }
+    }
+}

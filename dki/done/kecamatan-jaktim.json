@@ -1,0 +1,355 @@
+{
+    "Kecamatan": {
+        "Jakarta_timur-cakung": {
+            "tingkat_saksi": "Cakung",
+            "children": [
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cakung Timur"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Jatinegara"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Rawa Terate"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Penggilingan"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pulo Gebang"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Ujung Menteng"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cakung Barat"
+                }
+
+            ]
+        },
+        "Jakarta_timur-cipayung": {
+            "tingkat_saksi": "Cipayung",
+            "children": [
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cipayung"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cilangkap"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pondok Ranggon"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Munjul"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Setu"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Bambu Apus"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Lubang Buaya"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Ceger"
+                }
+            ]
+        },
+        "Jakarta_timur-ciracas": {
+            "tingkat_saksi": "Ciracas",
+            "children": [{
+                    "titik_saksi": "Kelurahan",
+                    "value": "Ciracas"
+
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cibubur"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Kelapa Dua Wetan"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Susukan"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Rambutan"
+                }
+            ]
+        },
+        "Jakarta_timur-duren_sawit": {
+            "tingkat_saksi": "Duren Sawit",
+            "children": [
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Duren Sawit"
+
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pondok Bambu"
+
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Klender"
+
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pondok Kelapa"
+
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Malaka Sari"
+
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Malaka Jaya"
+
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pondok Kopi"
+
+                }
+            ]
+        },
+        "Jakarta_timur-jatinegara": {
+            "tingkat_saksi": "Jatinegara",
+            "children": [
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Kampung Melayu"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Bidara Cina"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Balimester"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Rawa Bunga"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cipinang Cempedak"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cipinang Muara"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cipinang Besar Selatan"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cipinang Besar Utara"
+                }
+            ]
+        },
+        "Jakarta_timur-kramat_jati": {
+            "tingkat_saksi": "Kramat Jati",
+            "children": [
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Kramatjati"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Tengah"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Dukuh"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Batu Ampar"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Balekambang"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cililitan"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cawang"
+                }
+            ]
+
+        },
+        "Jakarta_timur-makasar": {
+            "tingkat_saksi": "Makasar",
+            "children": [
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Makasar"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pinangranti"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Kebon Pala"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Halim Perdana Kusuma"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cipinang Melayu"
+                }
+
+            ]
+        },
+        "Jakarta_timur-matraman": {
+            "tingkat_saksi": "Matraman",
+            "children": [
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pisangan Baru"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Utan Kayu Utara"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Kayu Manis"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Palmeriam"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Kebon Manggis"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Utan Kayu Selatan"
+                }
+
+            ]
+        },
+        "Jakarta_timur-pasar_rebo": {
+            "tingkat_saksi": "Pasar Rebo",
+            "children": [
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pekayon"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Kalisari"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Baru"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cijantung"
+                },
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Gedong"
+                }
+
+
+            ]
+        },
+        "Jakarta_timur-pulogadung": {
+            "tingkat_saksi": "Pulogadung",
+            "children": [
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pulo Gadung"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Pisangan Timur"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Cipinang"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Jatinegara Kaum"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Rawamangun"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Kayu Putih"
+                },
+
+                {
+                    "titik_saksi": "Kelurahan",
+                    "value": "Jati"
+                }
+
+            ]
+        }
+
+    }
+}
