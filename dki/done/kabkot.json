@@ -1,0 +1,119 @@
+{
+    "Kabupaten & Kota": {
+        "Jakarta_timur": {
+            "titik_saksi": "Jakarta Timur",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Matraman"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Pulogadung"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Jatinegara"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Kramatjati"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Pasar Rebo"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Cakung"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Duren Sawit"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Makasar"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Ciracas"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Cipayung"
+                }
+            ]
+        },
+        "Jakarta_utara": {
+            "titik_saksi": "Jakarta Utara",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Cilincing"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Kelapa Gading"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Koja"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Pademangan"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Penjaringan"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Tanjung Priok"
+                }
+            ]
+
+        },
+        "Jakarta_pusat": {
+            "titik_saksi": "Jakarta Pusat",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Gambir"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Sawah Besar"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Kemayoran"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Senen"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Cempaka Putih"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Menteng"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Tanah Abang"
+                },
+                {
+                    "tingkat_saksi": "Kecamatan",
+                    "value": "Johar Baru"
+                }
+            ]
+        }
+    }
+}
