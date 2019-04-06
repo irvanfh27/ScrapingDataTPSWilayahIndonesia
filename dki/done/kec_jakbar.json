@@ -1,0 +1,234 @@
+{
+    "Kecamatan": {
+        "Jakarta Barat - Cengkareng": {
+            "titik_saksi": "Cengkareng",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "CENGKARENG BARAT"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "DURI KOSAMBI"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "RAWA BUAYA"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KEDAUNG KALI ANGKE"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KAPUK"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "CENGKARENG TIMUR"
+                }
+            ]
+        },
+        "Jakarta Barat - Grogol Petamburan": {
+            "titik_saksi": "Grogol Petamburan",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "GROGOL"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "TANJUNG DUREN UTARA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "TOMANG"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "JELAMBAR"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "TANJUNG DUREN SELATAN"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "JELAMBAR BARU"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "WIJAYA KUSUMA"
+                }
+            ]
+        },
+        "Jakarta Barat - Kalideres": {
+            "titik_saksi": "Kalideres",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KALIDERES"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "SEMANAN"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "TEGAL ALUR"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KAMAL"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "PEGADUNGAN"
+                }
+            ]
+        },
+        "Jakarta Barat - Kebon Jeruk": {
+            "titik_saksi": "Kebon Jeruk",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KEBON JERUK"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "SUKABUMI UTARA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "SUKABUMI SELATAN"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KELAPA DUA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "DURI KEPA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KEDOYA UTARA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KEDOYA SELATAN"
+                }
+            ]
+        },
+        "Jakarta Barat - Kembangan": {
+            "titik_saksi": "Kembangan",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KEMBANGAN UTARA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "MERUYA UTARA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "MERUYA SELATAN"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "SRENGSENG"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "JOGLO"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KEMBANGAN SELATAN"
+                }
+            ]
+        },
+        "Jakarta Barat - Palmerah": {
+            "titik_saksi": "Palmerah",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "PALMERAH"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "SLIPI"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KOTA BAMBU UTARA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "JATIPULO"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KEMANGGISAN"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KOTA BAMBU SELATAN"
+                }
+            ]
+        },
+        "Jakarta Barat - Taman Sari": {
+            "titik_saksi": "Taman Sari",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "TAMAN SARI"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KRUKUT"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "MAPHAR"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "TANGKI"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "MANGGA BESAR"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KEAGUNGAN"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "GLODOK"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "PINANGSIA"
+                }
+            ]
+        },
+        "Jakarta Barat - Tambora": {
+            "titik_saksi": "Tambora",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "TAMBORA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KALI ANYAR"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "DURI UTARA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "TANAH SEREAL"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "KRENDANG"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "JEMBATAN BESI"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "ANGKE"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "JEMBATAN LIMA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "PEKOJAN"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "ROA MALAKA"
+                }, {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "DURI SELATAN"
+                }
+            ]
+        }
+
+    }
+}

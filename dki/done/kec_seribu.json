@@ -1,0 +1,40 @@
+{
+    "Kecamatan": {
+        "Kep. Seribu Selatan": {
+            "titik_saksi": "Kep. Seribu Selatan",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pulau Tidung"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pulau Pari"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pulau Untung Jawa"
+                }
+            ]
+        },
+        "Kep. Seribu Utara": {
+            "titik_saksi": "Kep. Seribu Utara",
+            "children": [
+
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pulau Panggang"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pulau Kelapa"
+                },
+                {
+                    "tingkat_saksi": "Kelurahan",
+                    "value": "Pulau Harapan"
+                }
+            ]
+        }
+    }
+}

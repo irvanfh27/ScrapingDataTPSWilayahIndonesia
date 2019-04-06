@@ -2,7 +2,7 @@ const admin = require('firebase-admin');
 const serviceAccount = require("./aksiloo.json");
 const randomstring = require('randomstring');
 
-const data = require("./dki/done/semarang/kelurahan-candisari.json");
+const data = require("./dki/done/kec_jakbar.json");
 const asd = randomstring.generate();
 
 admin.initializeApp({
