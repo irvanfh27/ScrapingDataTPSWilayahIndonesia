@@ -1,0 +1,29 @@
+{
+    "Kelurahan": {
+        "Matraman - Pisangan Baru": {
+            "titik_saksi": "Pisangan Baru",
+            "children": []
+        },
+        "Matraman - Utan Kayu Utara": {
+            "titik_saksi": "Utan Kayu Utara",
+            "children": []
+        },
+        "Matraman - Kayu Manis": {
+            "titik_saksi": "Kayu Manis",
+            "children": []
+        },
+        "Matraman - Palmeriam": {
+            "titik_saksi": "Palmeriam",
+            "children": []
+        },
+        "Matraman - Kebon Manggis": {
+            "titik_saksi": "Kebon Manggis",
+            "children": []
+        },
+        "Matraman - Utan Kayu Selatan": {
+            "titik_saksi": "Utan Kayu Selatan",
+            "children": []
+        }
+
+    }
+}
