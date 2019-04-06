@@ -1,0 +1,5967 @@
+{
+    "Kelurahan": {
+        "Cakung - Cakung Timur": {
+            "titik_saksi": "Cakung Timur",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "015"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "016"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "017"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "018"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "019"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "020"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "021"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "022"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "023"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "024"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "025"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "026"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "027"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "028"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "029"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "030"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "031"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "032"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "033"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "034"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "035"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "036"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "037"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "038"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "039"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "040"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "041"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "042"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "043"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "044"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "045"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "046"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "047"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "048"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "049"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "050"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "051"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "052"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "053"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "054"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "055"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "056"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "057"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "058"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "059"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "060"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "061"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "062"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "063"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "064"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "065"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "066"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "067"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "068"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "069"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "070"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "071"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "072"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "073"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "074"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "075"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "076"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "077"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "078"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "079"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "080"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "081"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "082"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "083"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "084"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "085"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "086"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "087"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "088"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "089"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "090"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "091"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "092"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "093"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "094"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "095"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "096"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "097"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "098"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "099"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "100"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "101"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "102"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "103"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "104"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "105"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "106"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "107"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "108"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "109"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "110"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "111"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "112"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "113"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "114"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "115"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "116"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "117"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "118"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "119"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "120"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "121"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "122"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "123"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "124"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "125"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "126"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "127"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "128"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "129"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "130"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "131"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "132"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "133"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "134"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "135"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "136"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "137"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "138"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "139"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "140"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "141"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "142"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "143"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "144"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "145"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "146"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "147"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "148"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "149"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "150"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "151"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "152"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "153"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "154"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "155"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "156"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "157"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "158"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "159"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "160"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "161"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "162"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "163"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "164"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "165"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "166"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "167"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "168"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "169"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "170"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "171"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "172"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "173"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "174"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "175"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "176"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "178"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "179"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "180"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "181"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "182"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "183"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "184"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "185"
+                }
+            ]
+        },
+        "Cakung - Jatinegara": {
+            "titik_saksi": "Jatinegara",
+            "children": [
+
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "015"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "016"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "017"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "018"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "019"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "020"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "021"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "022"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "023"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "024"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "025"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "026"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "027"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "028"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "029"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "030"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "031"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "032"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "033"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "034"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "035"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "036"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "037"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "038"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "039"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "040"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "041"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "042"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "043"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "044"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "045"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "046"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "047"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "048"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "049"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "050"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "051"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "052"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "053"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "054"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "055"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "056"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "057"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "058"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "059"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "060"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "061"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "062"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "063"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "064"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "065"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "066"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "067"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "068"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "069"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "070"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "071"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "072"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "073"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "074"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "075"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "076"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "077"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "078"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "079"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "080"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "081"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "082"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "083"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "084"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "085"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "086"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "087"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "088"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "089"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "090"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "091"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "092"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "093"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "094"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "095"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "096"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "097"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "098"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "099"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "100"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "101"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "102"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "103"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "104"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "105"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "106"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "107"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "108"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "109"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "110"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "111"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "112"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "113"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "114"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "115"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "116"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "117"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "118"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "119"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "120"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "121"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "122"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "123"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "124"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "125"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "126"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "127"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "128"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "129"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "130"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "131"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "132"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "133"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "134"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "135"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "136"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "137"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "138"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "139"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "140"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "141"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "142"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "143"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "144"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "145"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "146"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "147"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "148"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "149"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "150"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "151"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "152"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "153"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "154"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "155"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "156"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "157"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "158"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "159"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "160"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "161"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "162"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "163"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "164"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "165"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "166"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "167"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "168"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "169"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "170"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "171"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "172"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "173"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "174"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "175"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "176"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "178"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "179"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "180"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "181"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "182"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "183"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "184"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "185"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "186"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "187"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "188"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "189"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "190"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "191"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "192"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "193"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "194"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "195"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "196"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "197"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "198"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "199"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "200"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "201"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "202"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "203"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "204"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "205"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "206"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "207"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "203"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "204"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "205"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "206"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "207"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "203"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "204"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "205"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "206"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "207"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "208"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "209"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "210"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "211"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "212"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "213"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "214"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "215"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "216"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "218"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "219"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "220"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "221"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "222"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "223"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "224"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "225"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "226"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "227"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "228"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "229"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "230"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "231"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "232"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "233"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "234"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "235"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "236"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "237"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "238"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "239"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "240"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "241"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "242"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "243"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "244"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "245"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "246"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "247"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "248"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "249"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "250"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "251"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "252"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "253"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "254"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "255"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "256"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "257"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "258"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "259"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "260"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "261"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "262"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "263"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "264"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "265"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "267"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "268"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "269"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "270"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "271"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "272"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "273"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "274"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "275"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "276"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "277"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "278"
+                }
+            ]
+        },
+        "Cakung - Rawa Terate": {
+            "titik_saksi": "Rawa Terate",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "015"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "016"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "017"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "018"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "019"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "020"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "021"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "022"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "023"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "024"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "025"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "026"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "027"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "028"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "029"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "030"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "031"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "032"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "033"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "034"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "035"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "036"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "037"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "038"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "039"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "040"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "041"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "042"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "043"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "044"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "045"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "046"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "047"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "048"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "049"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "050"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "051"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "052"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "053"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "054"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "055"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "056"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "057"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "058"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "059"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "060"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "061"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "062"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "063"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "064"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "065"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "066"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "067"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "068"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "069"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "070"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "071"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "072"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "073"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "074"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "075"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "076"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "077"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "078"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "079"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "080"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "081"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "082"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "083"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "084"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "085"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "086"
+                }
+            ]
+        },
+        "Cakung - Penggilingan": {
+            "titik_saksi": "Penggilingan",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "015"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "016"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "017"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "018"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "019"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "020"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "021"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "022"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "023"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "024"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "025"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "026"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "027"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "028"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "029"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "030"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "031"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "032"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "033"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "034"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "035"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "036"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "037"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "038"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "039"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "040"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "041"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "042"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "043"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "044"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "045"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "046"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "047"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "048"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "049"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "050"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "051"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "052"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "053"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "054"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "055"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "056"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "057"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "058"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "059"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "060"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "061"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "062"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "063"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "064"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "065"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "066"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "067"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "068"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "069"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "070"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "071"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "072"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "073"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "074"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "075"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "076"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "077"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "078"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "079"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "080"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "081"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "082"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "083"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "084"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "085"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "086"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "087"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "088"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "089"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "090"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "091"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "092"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "093"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "094"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "095"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "096"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "097"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "098"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "099"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "100"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "101"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "102"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "103"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "104"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "105"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "106"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "107"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "108"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "109"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "110"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "111"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "112"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "113"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "114"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "115"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "116"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "117"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "118"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "119"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "120"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "121"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "122"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "123"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "124"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "125"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "126"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "127"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "128"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "129"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "130"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "131"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "132"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "133"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "134"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "135"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "136"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "137"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "138"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "139"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "140"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "141"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "142"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "143"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "144"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "145"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "146"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "147"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "148"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "149"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "150"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "151"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "152"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "153"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "154"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "155"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "156"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "157"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "158"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "159"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "160"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "161"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "162"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "163"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "164"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "165"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "166"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "167"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "168"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "169"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "170"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "171"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "172"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "173"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "174"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "175"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "176"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "178"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "179"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "180"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "181"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "182"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "183"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "184"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "185"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "186"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "187"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "188"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "189"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "190"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "191"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "192"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "193"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "194"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "195"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "196"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "197"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "198"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "199"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "200"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "201"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "202"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "203"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "204"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "205"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "206"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "207"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "203"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "204"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "205"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "206"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "207"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "203"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "204"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "205"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "206"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "207"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "208"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "209"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "210"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "211"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "212"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "213"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "214"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "215"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "216"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "218"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "219"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "220"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "221"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "222"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "223"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "224"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "225"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "226"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "227"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "228"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "229"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "230"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "231"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "232"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "233"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "234"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "235"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "236"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "237"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "238"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "239"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "240"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "241"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "242"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "243"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "244"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "245"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "246"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "247"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "248"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "249"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "250"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "251"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "252"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "253"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "254"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "255"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "256"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "257"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "258"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "259"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "260"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "261"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "262"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "263"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "264"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "265"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "267"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "268"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "269"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "270"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "271"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "272"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "273"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "274"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "275"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "276"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "277"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "278"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "279"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "280"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "281"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "282"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "283"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "284"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "285"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "286"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "287"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "288"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "289"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "290"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "291"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "292"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "293"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "294"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "295"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "296"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "297"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "298"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "299"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "300"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "301"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "302"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "303"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "304"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "305"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "306"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "307"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "308"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "309"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "310"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "311"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "312"
+                }
+            ]
+        },
+        "Cakung - Pulo Gebang": {
+            "titik_saksi": "Pulo Gebang",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "015"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "016"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "017"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "018"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "019"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "020"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "021"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "022"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "023"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "024"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "025"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "026"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "027"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "028"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "029"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "030"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "031"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "032"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "033"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "034"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "035"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "036"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "037"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "038"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "039"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "040"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "041"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "042"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "043"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "044"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "045"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "046"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "047"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "048"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "049"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "050"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "051"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "052"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "053"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "054"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "055"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "056"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "057"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "058"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "059"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "060"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "061"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "062"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "063"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "064"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "065"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "066"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "067"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "068"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "069"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "070"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "071"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "072"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "073"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "074"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "075"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "076"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "077"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "078"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "079"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "080"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "081"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "082"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "083"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "084"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "085"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "086"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "087"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "088"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "089"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "090"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "091"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "092"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "093"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "094"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "095"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "096"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "097"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "098"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "099"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "100"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "101"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "102"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "103"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "104"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "105"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "106"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "107"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "108"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "109"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "110"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "111"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "112"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "113"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "114"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "115"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "116"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "117"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "118"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "119"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "120"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "121"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "122"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "123"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "124"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "125"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "126"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "127"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "128"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "129"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "130"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "131"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "132"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "133"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "134"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "135"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "136"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "137"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "138"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "139"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "140"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "141"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "142"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "143"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "144"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "145"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "146"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "147"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "148"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "149"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "150"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "151"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "152"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "153"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "154"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "155"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "156"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "157"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "158"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "159"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "160"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "161"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "162"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "163"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "164"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "165"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "166"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "167"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "168"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "169"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "170"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "171"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "172"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "173"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "174"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "175"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "176"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "178"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "179"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "180"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "181"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "182"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "183"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "184"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "185"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "186"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "187"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "188"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "189"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "190"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "191"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "192"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "193"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "194"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "195"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "196"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "197"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "198"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "199"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "200"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "201"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "202"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "203"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "204"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "205"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "206"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "207"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "203"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "204"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "205"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "206"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "207"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "203"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "204"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "205"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "206"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "207"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "208"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "209"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "210"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "211"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "212"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "213"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "214"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "215"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "216"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "218"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "219"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "220"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "221"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "222"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "223"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "224"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "225"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "226"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "227"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "228"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "229"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "230"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "231"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "232"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "233"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "234"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "235"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "236"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "237"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "238"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "239"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "240"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "241"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "242"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "243"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "244"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "245"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "246"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "247"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "248"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "249"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "250"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "251"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "252"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "253"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "254"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "255"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "256"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "257"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "258"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "259"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "260"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "261"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "262"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "263"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "264"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "265"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "267"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "268"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "269"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "270"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "271"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "272"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "273"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "274"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "275"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "276"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "277"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "278"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "279"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "280"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "281"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "282"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "283"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "284"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "285"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "286"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "287"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "288"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "289"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "290"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "291"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "292"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "293"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "294"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "295"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "296"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "297"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "298"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "299"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "300"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "301"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "302"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "303"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "304"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "305"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "306"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "307"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "308"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "309"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "310"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "311"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "312"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "313"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "314"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "315"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "316"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "317"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "318"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "319"
+                }
+            ]
+        },
+        "Cakung - Ujung Menteng": {
+            "titik_saksi": "Ujung Menteng",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "015"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "016"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "017"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "018"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "019"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "020"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "021"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "022"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "023"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "024"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "025"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "026"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "027"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "028"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "029"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "030"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "031"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "032"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "033"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "034"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "035"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "036"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "037"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "038"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "039"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "040"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "041"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "042"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "043"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "044"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "045"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "046"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "047"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "048"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "049"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "050"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "051"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "052"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "053"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "054"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "055"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "056"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "057"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "058"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "059"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "060"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "061"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "062"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "063"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "064"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "065"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "066"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "067"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "068"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "069"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "070"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "071"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "072"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "073"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "074"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "075"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "076"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "077"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "078"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "079"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "080"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "081"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "082"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "083"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "084"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "085"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "086"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "087"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "088"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "089"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "090"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "091"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "092"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "093"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "094"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "095"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "096"
+                }
+            ]
+        },
+        "Cakung - Cakung Barat": {
+            "titik_saksi": "Cakung Barat",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "015"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "016"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "017"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "018"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "019"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "020"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "021"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "022"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "023"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "024"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "025"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "026"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "027"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "028"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "029"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "030"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "031"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "032"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "033"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "034"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "035"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "036"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "037"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "038"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "039"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "040"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "041"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "042"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "043"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "044"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "045"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "046"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "047"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "048"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "049"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "050"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "051"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "052"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "053"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "054"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "055"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "056"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "057"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "058"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "059"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "060"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "061"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "062"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "063"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "064"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "065"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "066"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "067"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "068"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "069"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "070"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "071"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "072"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "073"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "074"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "075"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "076"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "077"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "078"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "079"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "080"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "081"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "082"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "083"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "084"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "085"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "086"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "087"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "088"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "089"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "090"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "091"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "092"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "093"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "094"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "095"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "096"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "097"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "098"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "099"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "100"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "101"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "102"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "103"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "104"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "105"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "106"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "107"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "108"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "109"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "110"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "111"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "112"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "113"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "114"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "115"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "116"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "117"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "118"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "119"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "120"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "121"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "122"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "123"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "124"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "125"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "126"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "127"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "128"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "129"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "130"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "131"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "132"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "133"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "134"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "135"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "136"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "137"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "138"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "139"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "140"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "141"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "142"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "143"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "144"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "145"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "146"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "147"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "148"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "149"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "150"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "151"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "152"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "153"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "154"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "155"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "156"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "157"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "158"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "159"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "160"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "161"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "162"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "163"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "164"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "165"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "166"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "167"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "168"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "169"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "170"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "171"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "172"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "173"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "174"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "175"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "176"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "178"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "179"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "180"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "181"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "182"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "183"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "184"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "185"
+                }
+            ]
+        }
+    }
+}
