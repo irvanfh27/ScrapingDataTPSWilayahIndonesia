@@ -1,0 +1,321 @@
+{
+    "Kelurahan": {
+        "Kep. Seribu Utara - Pulau Panggang": {
+            "titik_saksi": "Pulau Panggang",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "015"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "016"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "017"
+                }
+            ]
+        },
+        "Kep. Seribu Utara - Pulau Kelapa": {
+            "titik_saksi": "Pulau Kelapa",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "015"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "016"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "017"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "018"
+                }
+            ]
+        },
+        "Kep. Seribu Utara - Pulau Harapan": {
+            "titik_saksi": "Pulau Harapan",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                }
+            ]
+        },
+        "Kep. Seribu Selatan - Pulau Tidung": {
+            "titik_saksi": "Pulau Tidung",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "009"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "010"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "011"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "012"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "013"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "014"
+                }
+            ]
+        },
+        "Kep. Seribu Selatan - Pulau Pari": {
+            "titik_saksi": "Pulau Pari",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "007"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "008"
+                }
+            ]
+        },
+        "Kep. Seribu Selatan - Pulau Untung Jawa": {
+            "titik_saksi": "Pulau Untung Jawa",
+            "children": [
+
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "001"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "002"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "003"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "004"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "005"
+                },
+                {
+                    "tingkat_saksi": "TPS",
+                    "value": "006"
+                }
+            ]
+        }
+
+    }
+}
