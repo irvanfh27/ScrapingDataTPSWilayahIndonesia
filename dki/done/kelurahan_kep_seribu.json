@@ -1,6 +1,6 @@
 {
     "Kelurahan": {
-        "Kep. Seribu Utara - Pulau Panggang": {
+        "Kep. Seribu - Kep. Seribu Utara - Pulau Panggang": {
             "titik_saksi": "Pulau Panggang",
             "children": [
 
@@ -74,7 +74,7 @@
                 }
             ]
         },
-        "Kep. Seribu Utara - Pulau Kelapa": {
+        "Kep. Seribu - Kep. Seribu Utara - Pulau Kelapa": {
             "titik_saksi": "Pulau Kelapa",
             "children": [
 
@@ -152,7 +152,7 @@
                 }
             ]
         },
-        "Kep. Seribu Utara - Pulau Harapan": {
+        "Kep. Seribu - Kep. Seribu Utara - Pulau Harapan": {
             "titik_saksi": "Pulau Harapan",
             "children": [
 
@@ -186,7 +186,7 @@
                 }
             ]
         },
-        "Kep. Seribu Selatan - Pulau Tidung": {
+        "Kep. Seribu - Kep. Seribu Selatan - Pulau Tidung": {
             "titik_saksi": "Pulau Tidung",
             "children": [
 
@@ -248,7 +248,7 @@
                 }
             ]
         },
-        "Kep. Seribu Selatan - Pulau Pari": {
+        "Kep. Seribu - Kep. Seribu Selatan - Pulau Pari": {
             "titik_saksi": "Pulau Pari",
             "children": [
 
@@ -286,7 +286,7 @@
                 }
             ]
         },
-        "Kep. Seribu Selatan - Pulau Untung Jawa": {
+        "Kep. Seribu - Kep. Seribu Selatan - Pulau Untung Jawa": {
             "titik_saksi": "Pulau Untung Jawa",
             "children": [
 
